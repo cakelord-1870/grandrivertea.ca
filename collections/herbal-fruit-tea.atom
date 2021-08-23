@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/herbal-fruit-tea.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2021-05-04T13:22:26-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/4409799999561</id>
+    <published>2021-05-04T13:22:26-05:00</published>
+    <updated>2021-05-04T13:22:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/copy-of-chamomile-herbal-25-tea-pyramids"/>
+    <title>Chamomile Herbal- 25 Tea Pyramids</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHAMOMILE_e2951c3f-9bcb-4120-b22e-e3deac4806a5.jpg?v=1585162375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Very aromatic with a fruity tending floral flavour.</p>
+<p class="p1">Great before bedtime.</p>
+<p class="p1"><strong>Grown:</strong> Nile River Delta, Egypt</p>
+<p class="p1"><strong>Ingredients:</strong> Chamomile blossoms</p>
+<meta charset="utf-8">
+<p class="p1"><strong>Steeping Instructions:</strong><span> 205°F – 4-7 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Chamomile</s:tag>
+    <s:tag>chamomile tea</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:tag>tea pyramid</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4409799999561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4409815826505</id>
+    <published>2021-05-04T13:20:19-05:00</published>
+    <updated>2021-05-04T13:20:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/chilly-mint-herbal-25-tea-pyramids"/>
+    <title>Chilly Mint Herbal-25 Tea Pyramids (100% Peppermint)</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHILLYMINT_8562cfdf-a044-4b88-9f3d-7866dfba4e5c.jpg?v=1585166021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Do you find some peppermint teas flat? Chilly mint will become your go to herbal tea.  It's how a good peppermint tea should taste cool and very refreshing cold or hot.</p>
+<p class="p1">Pungent, cool, fresh, menthol. Infused leaf is bright green, tending yellowish. <strong>Ingredients:</strong> Peppermint leaves</p>
+<p class="p1"><strong>Grown:</strong> Washington, USA</p>
+<meta charset="utf-8">
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong><span> 205°F – 5-10 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>mint tea</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:tag>tea pyramid</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4409815826505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4570249166921</id>
+    <published>2021-05-04T13:15:18-05:00</published>
+    <updated>2021-05-04T13:15:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/berry-berry-fruit-25-tea-pyramids"/>
+    <title>Berry Berry Fruit- 25 Tea Pyramids</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/berry.jpg?v=1619638020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"><span>A full flavoured tea with deep berry notes. The infused cup is burgundy red and provides strength and character. A terrific tasting fruit/herbal tea.</span></strong></p>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Ingredients: Elderberries, Currant, Hibiscus, Natural Flavours</strong><br></p>
+<p><strong>Caffeine Free Herbal and Fruit</strong></p>
+<p><strong>Grown:</strong><span> Turkey, Greece, Egypt</span></p>
+<p><strong>Steeping Instructions:<span> </span></strong></p>
+<p><span>205°F  5-10 Minutes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4570249166921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6569720676425</id>
+    <published>2021-05-04T08:37:46-05:00</published>
+    <updated>2021-05-04T08:37:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/matcha-tea-wisk"/>
+    <title>Matcha Tea Whisk-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-2_44851638-e12f-47c0-bbce-e955fa4e161c.jpg?v=1620135206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grand River Tea matcha tea Whisk is made from biodegradable bamboo.</p>
+<p> </p>
+<p>Perfect tool for creating your daily matcha.  Try it with our Matcha Green, Organic Hibiscus Matcha Herbal or Masala Chai Match Black.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:tag>Matcha Whisk</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6569720676425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6550642851913</id>
+    <published>2021-03-11T09:39:01-06:00</published>
+    <updated>2021-03-11T09:39:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-stinging-nettle-herbal-20g-new-canadian-herbal"/>
+    <title>Organic Stinging Nettle Herbal-20G -New Canadian Herbal</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-2_f495157b-29b5-414e-b16b-fb9e2d9f0441.jpg?v=1619638737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Our organic stinging nettle is grown and harvested from Alberta Canada.  We're very proud of our latest herbal. </p>
+<p class="p1">Stinging Nettle has a rich earthy spinach flavour.  May help with muscle and joint issues and other issued.  Consult your health care practitioner for more information.  <br></p>
+<p class="p1">Dried nettle can be consumed as a tea, in soups or try adding to your mashed potatoes.</p>
+<p class="p1"><strong>Ingredients:</strong> 100% Organic Stinging Nettle</p>
+<p><strong>Grown:</strong><span> Alberta, Canada</span></p>
+<p><strong>Steeping Instructions: </strong> 205°F – 5-10 mins. </p>
+<p><strong>Caffeine: <span>None</span></strong></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Stinging Nettle</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6550642851913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4624632873033</id>
+    <published>2021-02-23T08:50:29-06:00</published>
+    <updated>2021-02-23T08:50:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/cherry-banana-fruit-60g"/>
+    <title>Cherry Banana Fruit-60G-New</title>
+    <s:type>Fruit</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-4_9c9ced8c-add1-4946-8e8b-dcb80b370b9a.jpg?v=1619638088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Fruit<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Summer time is coming and what a wonderful choice for a cold refreshing glass of Cherry Banana Fruit tea.  The bold, bright tangy sour cherry notes with the mild sweet banana finish.  This blend contains vitamin C.</p>
+<p>Enjoy hot or cold!</p>
+<p><strong>Ingredients:</strong> Apples, Hibiscus, Rosehip, Orange, Banana, Cherry, Strawberry, Natural Flavours.</p>
+<p><strong>Grown:</strong> Canada, USA, Thailand, Spain</p>
+<p>Brew 2 tsp for 8 oz water 205F 5-7 minutes</p>
+<p>Caffeine Free</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Banana</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4624632873033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4606717755465</id>
+    <published>2021-01-25T13:37:38-06:00</published>
+    <updated>2021-01-25T13:37:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grand-river-detox-herbal-20g-new"/>
+    <title>Grand River Detox Herbal-20G- New Grand River Tea Blend</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-1_6cee9621-57fb-40c6-b02e-71eb6f3a8283.jpg?v=1619638273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our unique blend of lemongrass, peppermint, stinging nettle and red clover blossoms is a delicious herbal infusion.  These four unique herbs may kick start your metabolism, natural diuretic, soothe digestion, help cleanse your body of toxins, liver cleansing and high in antioxidants.</p>
+<p> </p>
+<p>Put that kettle on and enjoy our latest herbal infusion.</p>
+<p><strong>Grown:</strong> Canada and Kenya</p>
+<p><strong>Ingredients:</strong> Lemongrass, peppermint, stinging nettles and red clover blossoms</p>
+<p><strong>Brew:</strong> 1-2 tsp in eight ounces of boiling water 205F for 5-10 minutes.</p>
+<p><strong>Peppermint and lemongrass have the following certifications</strong></p>
+<p><strong>Stinging Nettle and Red Clover Blossoms are harvested in Canada and are organic certified. </strong></p>
+<p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/Certifications_1_480x480.jpg?v=1611074171" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2697/6254/files/Certifications_1_480x480.jpg?v=1611074171"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>detox</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>red clover blossoms</s:tag>
+    <s:tag>Stinging Nettles</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4606717755465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4598867001417</id>
+    <published>2021-01-05T12:47:54-06:00</published>
+    <updated>2021-01-05T12:47:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-berry-berry-fruit-90g"/>
+    <title>Mason Jar Berry Berry Fruit- 90G-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG-3565_9170916b-5108-4660-a78f-80d9ea21d062.jpg?v=1609872348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>A full flavoured tea with deep berry notes. The infused cup is burgundy red and provides strength and character. A terrific tasting fruit/herbal tea.</p>
+<p> </p>
+<p>Packed in a zero waste 250ML mason jar</p>
+<p>Ingredients: Elderberries, Currant, Hibiscus, Natural Flavours<br></p>
+<p><strong>Caffeine Free Herbal and Fruit</strong></p>
+<p><strong>Grown:</strong><span> Turkey, Greece, Egypt</span></p>
+<p><strong>Steeping Instructions:<span> </span></strong>2<span> teaspoons for 8 ounces – 205°F  5-10 Minutes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Berry Berry Fruit</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4598867001417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4593719738441</id>
+    <published>2020-12-13T10:29:14-06:00</published>
+    <updated>2020-12-13T10:29:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-hibiscus-40g"/>
+    <title>Mason Jar Hibiscus-35g-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/HIBISCUS_4b651a59-914d-41ed-aec0-dd0d6bb79932.jpg?v=1607876680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hibiscus has  lovely deep red infusion similar to grenadine with a taste close to lemonade.  This is a keeper for those who love making iced tea or sipping hot. </p>
+<p>Use your imagination for those cocktail making nights.</p>
+<p>High in antioxidants.  Very hydrating.</p>
+<p>Packed in a zero waste reusable 250ml mason jar</p>
+<p><strong>Ingredients:</strong>Hibiscus Petals</p>
+<p><strong>Grown:</strong> Nile River Delta, Egypt</p>
+<meta charset="utf-8">
+<p><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 4-7 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>hibiscus</s:tag>
+    <s:tag>hibiscus tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4593719738441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4561692426313</id>
+    <published>2020-09-22T08:25:00-05:00</published>
+    <updated>2020-09-22T08:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/perfect-cup-spoon-stainless-steel"/>
+    <title>Perfect Cup Spoon-Stainless Steel-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_4adf464b-de08-424e-bf80-f1654f9d27ce.jpg?v=1619638769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Measure the perfect amount of loose leaf tea for every delicious cup of tea.</p>
+<p>Our Perfect Cup Spoon will ensure you get a consistent cup of tea everytime.</p>
+<p>Stainless steel 18/8</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4561692426313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4544444727369</id>
+    <published>2020-08-25T10:56:41-05:00</published>
+    <updated>2020-08-25T10:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grosche-laval-tea-infuser"/>
+    <title>Grosche Laval Tea Infuser</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GROSCHE-Laval-stainless-steel-tea-infuser.jpg?v=1599751946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grosche<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><meta charset="utf-8">The GROSCHE LAVAL loose tea infuser is perfect for any cup, mug, or small teapot. The LAVAL is suitable for all loose leaf teas and won’t allow leaves to seep into your tea. It is made from 18-8 stainless steel and can hold enough loose leaf tea for 2-3 steeps. It is easily removable with the lip of the infuser. </span></p>
+<p><span>Your purchase of this product, GROSCHE is able to provide 50+ days of safe drinking water </span><span>to someone in need. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4544444727369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4540845293641</id>
+    <published>2020-08-17T14:33:12-05:00</published>
+    <updated>2020-08-17T14:33:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/rise-and-shine-herbal-40g-canadian-new"/>
+    <title>Rise And Shine Herbal-40G- Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/RISEANDSHINE.jpg?v=1619638834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="265" height="149"></p>
+<meta charset="utf-8">
+<p>Hand picked and ethically wildcrafted in the Canadian wilderness.  Why buy from around the world when you can purchase locally and grown right here in Canada.</p>
+<p> </p>
+<p>Harvested in the Algonquin region in Ontario.  An uplifting tea but without the caffeine.</p>
+<p>Ingredients: Labrador tea, nettle, peppermint, alfalfa, astragalus, meadowsweet, angelica, spearmint and ginseng</p>
+<p>Brew 2-3 minutes at 180- 185F brew up to 3 times</p>
+<p>Caffeine Free, no additives or preservatives</p>
+<p>Certified organic by Pro-Cert</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4540845293641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4540842377289</id>
+    <published>2020-08-17T14:18:58-05:00</published>
+    <updated>2020-08-17T14:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-chamomile-herbal-15g-canadian-new"/>
+    <title>Organic Chamomile Herbal-15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-2.jpg?v=1619638544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span mce-data-marked="1">Take a cup of our Canadian grown chamomile relax, rest and sleep.</span></p>
+<p><span><strong>Ingredients:</strong> Chamomile( Organic Certified)</span></p>
+<p><span><strong>Grown:</strong> Alberta, Canada</span></p>
+<p><strong>Caffeine Free</strong></p>
+<p><span><strong>Brew:</strong> 1-2 teaspoons eight ounces of water.  Brew 5-7 Minutes </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4540842377289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4540760490057</id>
+    <published>2020-08-17T10:54:47-05:00</published>
+    <updated>2020-08-17T10:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-peppermint-15g-canadian"/>
+    <title>Organic Peppermint-15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-1.jpg?v=1619638708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="274" height="154"></p>
+<p><span>Our Canadian Organic Peppermint is a refreshing caffeine-free alternative to regular tea or coffee.  May help with digestion, freshening  breath, help with headaches, relieve cold symptom and help with sleep. </span><br></p>
+<p><span><strong>Ingredients:</strong> Organic Peppermint</span></p>
+<p><span><strong>Grown:</strong> Canada</span></p>
+<p><span><strong>Brew:</strong> 1-2 teaspoon with 8 ounces of boiling water for 5-7 minutes</span></p>
+<p><span>Caffeine Free</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4540760490057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4510230446153</id>
+    <published>2020-07-06T10:30:00-05:00</published>
+    <updated>2020-07-06T10:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/berry-berry-fruit-60g"/>
+    <title>Berry Berry Fruit- 60G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG-3565.jpg?v=1599751062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>A full flavoured tea with deep berry notes. The infused cup is burgundy red and provides strength and character. A terrific tasting fruit/herbal tea.</p>
+<p>Ingredients: Elderberries, Currant, Hibiscus, Natural Flavours<br></p>
+<p><strong>Caffeine Free Herbal and Fruit</strong></p>
+<p><strong>Grown:</strong><span> Turkey, Greece, Egypt</span></p>
+<p><strong>Steeping Instructions:</strong><span> 2</span><span> teaspoons for 8 ounces – 205°F  5-10 Minutes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fruit</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4510230446153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4457085861961</id>
+    <published>2020-05-11T14:26:42-05:00</published>
+    <updated>2020-05-11T14:26:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-daily-herbal-15g"/>
+    <title>Organic Daily Herbal- 15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/DAILYHERBAL.jpg?v=1619638573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿<img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="144" height="81"></p>
+<meta charset="utf-8">
+<p><span>Cup of goodness in our Organic Daily Herbal.  Wonderful anytime of day.  This will become your go to herbal tea.  Put the kettle on don't stop at just one. </span></p>
+<p><span><strong>Ingredients:</strong> Chamomile, Lemon Balm, Stinging Nettle, Peppermint, Wild Raspberry Leaf, Spearmint, Wild Mint, Yarrow ( Organic Certified)</span></p>
+<p><span><strong>Grown:</strong> Canada</span></p>
+<p><strong>Caffeine Free</strong></p>
+<p><span><strong>Brew:</strong> 2 teaspoons eight ounces of water.  Brew 5-7 Minutes </span></p>
+<p><strong>Can be re brewed. </strong></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4457085861961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4457080291401</id>
+    <published>2020-05-11T14:14:27-05:00</published>
+    <updated>2020-05-11T14:14:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-lullaby-herbal-15g"/>
+    <title>Organic Lullaby Herbal- 15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/LULLABY.jpg?v=1619638683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="137" height="77"></p>
+<meta charset="utf-8">
+<p><span>Calming herbs that will help you sleep.  Contains organic certified Canadian grown ingredients.  Nighty night!</span></p>
+<p><span><strong>Ingredients:</strong> Organic Lemon Catnip, Lemon Balm and Chamomile</span></p>
+<p><span><strong>Grown:</strong> Canada</span></p>
+<p><span><strong>Brew:</strong> 2 teaspoon with 8 ounces of boiling water for 5-7 minutes</span></p>
+<p><span>Caffeine Free</span></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4457080291401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4412037038153</id>
+    <published>2020-03-31T08:25:31-05:00</published>
+    <updated>2020-03-31T08:25:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/dandelion-herbal"/>
+    <title>Organic Dandelion Leaf - Herbal- 20G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Dandelionherbal.jpg?v=1619638601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><br></p>
+<p class="p1">Our organic dandelion is grown and harvested from Alberta Canada.  We're very proud of our latest herbal. </p>
+<p class="p1">Spring time is a perfect time to start consuming dandelion tea.  May help with detoxifying your liver.  Dandelion is high in minerals such as iron, calcium, magnesium and potassium.  </p>
+<p class="p1"><strong>Ingredients:</strong> 100% Organic Dandelion Leaf</p>
+<p><strong>Grown:</strong><span> Alberta, Canada</span></p>
+<p><strong>Steeping Instructions: </strong> 205°F – 5-10 mins. </p>
+<p><strong>Caffeine: <span>None</span></strong></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>dandelion</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4412037038153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4408971296841</id>
+    <published>2020-03-23T13:55:01-05:00</published>
+    <updated>2020-03-23T13:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/gift-card"/>
+    <title>Gift Card-Grand River Tea</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/e38bd83af578077b65a31424bd24d085.png?v=1599751789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://grandrivertea.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Grand River Tea gift card.</p>
+<p>Gift cards are delivered by email and contain instructions on how to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4379962572873</id>
+    <published>2020-01-20T11:51:48-06:00</published>
+    <updated>2020-01-20T11:51:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-hibiscus-matcha-40g"/>
+    <title>Organic Hibiscus Matcha-40G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGHIBISCUSMATCHA-1.jpg?v=1599765236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div><br></div>
+<div><span style="text-decoration: underline;"></span></div>
+<div id="prodcupdesc">Very full-bodied and smooth with robust yet sweet citrus notes. Try it on it's own or add to your favourite smoothie or green matcha drink to add a powerhouse of antioxidants.  Prepare the same way as you would a green matcha tea but there is no caffeine.  Remember you're consuming the organic whole hibiscus petals so the health benefits are greater than steeped hibiscus petals. </div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Hibiscus petals* *Organic Certified Organic by Pro-Cert Organic Systems </div>
+<div>
+<strong>Grown:</strong> Egypt</div>
+<div><strong>Caffeine Free</strong></div>
+<div>﻿Use a 1/2 a tsp per 8 oz of water.  Put in base of cup ad 2 oz add hot water and mix vigorously.  Top with fresh steamed milk and sweeten to taste.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Herbal</s:tag>
+    <s:tag>hibiscus</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4379962572873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373143322697</id>
+    <published>2020-01-06T11:02:52-06:00</published>
+    <updated>2020-01-06T11:02:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-strawberry-cocoa-fruit-tea-50g"/>
+    <title>Mason Jar Strawberry Cocoa Fruit Tea-50G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/strawberrycocoa_596cfb7a-5064-4d18-bd7c-319b84e6cfc8.jpg?v=1580141994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Packed in a zero waste 250ML mason jar.  </div>
+<div></div>
+<div></div>
+<div>This is unmistakably the most aromatic fruit tea of strawberries and chocolate without the guilt of sugar.  Delicious hot or cold.  Iced tea heaven!</div>
+<div></div>
+<div><b></b></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Apple,Hibiscus, Rosehip, Strawberry,Papaya, Cocoa pieces, Cornflower petals, Natural flavours</div>
+<div id="prodmanucountry"></div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>Turkey / Egypt / China / India / Albania</div>
+<div><strong>No Caffeine</strong></div>
+<div id="prodregions"><b></b></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>cocoa</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>strawberry cocoa fruit tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373143322697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373142405193</id>
+    <published>2020-01-06T10:59:27-06:00</published>
+    <updated>2020-01-06T10:59:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-organic-grand-river-zen-herbal-30g"/>
+    <title>Mason Jar Organic Grand River Zen-30G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GRANDRIVERZEN_b380c100-9087-4e52-a702-80700f80d38c.jpg?v=1580141841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Packed in a zero waste 250ML mason jar.  </p>
+<p>Sweet, exotic, with notes of fruit and a light spearmint finish.  What a perfect way to relax at the end of a long day.</p>
+<p>The aroma is so inviting and relaxing.  Say ahhh!!!</p>
+<p><strong>Ingredients:</strong> Peppermint, Spearmint leaves, Honeybush, Camomile, Hibiscus, Calendula, Rose, Osmanthus petals.  Organic Certified</p>
+<p><strong>Grown:</strong> Washington-USA, Nile River Delta- Egypt, Cederburg-South Africa</p>
+<meta charset="utf-8">
+<p><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 4-7 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zen</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373142405193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373141979209</id>
+    <published>2020-01-06T10:58:07-06:00</published>
+    <updated>2020-01-06T10:58:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-organic-bella-coola-fruit-tea"/>
+    <title>Mason Jar Organic Bella Coola Fruit-75G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/bellacoola_15171f4a-f57e-4e96-aec6-f881c3423f31.jpg?v=1580141772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Packed in a zero waste 250ML mason jar.  Pick up orders only on scheduled pick up date.</div>
+<div id="prodcupdesc">A predominant orange character with the lovely sweetness of pineapple.  This is an amazing and refreshing fruit tea which is, wonderful hot or cold.  We love this one the best iced in the summer.  Let your imagination run wild with ways to serve as a cocktail with wine, liquor.  Give it a try. Iced tea heaven!</div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Apple, Rosehip, Orange pieces, Hibiscus petals, Natural flavours </div>
+<div id="prodmanucountry">
+<b>Small Batch Blended and Packed in:</b><span> </span>Canada</div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>Turkey / Chile / Egypt</div>
+<div id="prodregions"><strong>Caffeine Free</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bella coola</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373141979209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373136375881</id>
+    <published>2020-01-06T10:34:37-06:00</published>
+    <updated>2020-01-06T10:34:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-chilly-mint-herbal"/>
+    <title>Mason Jar Chilly Mint Herbal-30G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHILLYMINT_46b9e5d4-da9c-4614-98be-8568bc79fbbe.jpg?v=1580417042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Packed in a zero waste 250ML Mason Jar.  </p>
+<p class="p1">If you love peppermint this is your go to herbal tea.  Very refreshing cold or hot.</p>
+<p class="p1">Pungent, cool, fresh, menthol. Infused leaf is bright green, tending yellowish. <strong>Ingredients:</strong> Peppermint leaves</p>
+<p class="p1"><strong>Grown:</strong> Washington, USA</p>
+<meta charset="utf-8">
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 5-10 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>chilly mint</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373136375881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1819930689579</id>
+    <published>2019-06-26T12:23:03-05:00</published>
+    <updated>2019-06-26T12:23:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/blueberry-pea-flower-fruit-60g"/>
+    <title>Blueberry Pea Flower Fruit- 60G-GRT Blend</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_1548.JPG?v=1626650457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking for a dynamite colour for you next jug of iced tea or cocktail.  <strong>It's blue!! </strong>Courtesy of the wonderful flower Blue Pea Flower. Light note of blueberry with a touch of sweetness.  </p>
+<p><strong>Ingredients:</strong> Blueberry(Bilberry), Apple, Butterfly Blue Pea Flower</p>
+<p><strong>Grown:</strong> Turkey, Thailand</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blueberry pea</s:tag>
+    <s:tag>blueberry pea flower fruit</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1819930689579</id>
+      <title>60G</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>

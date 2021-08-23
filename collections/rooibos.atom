@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/rooibos.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2021-05-04T08:10:43-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/1789167796267</id>
+    <published>2021-05-04T08:10:43-05:00</published>
+    <updated>2021-05-04T08:10:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/chocolate-mint-rooibos-25-tea-pyramids-red-bush"/>
+    <title>Chocolate Mint Rooibos- 25 Pyramids</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHOCOLATEMINTROOIBOS_95734df0-4182-4ff9-88a9-4810f86e1fa9.jpg?v=1580415878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Mint notes tempered with fruity rooibos and a hint of chocolate.  Perfect after dinner tea.</p>
+<p class="p1">Rooibos is very high in antioxidants and is great for your skin.</p>
+<p class="p1">Re brew up to three times.  Don't waste a drop.</p>
+<p class="p1"><strong>Ingredients:</strong> Rooibos, Peppermint leaves, Cacao bean pieces, Calendula petals, Natural flavours</p>
+<p><strong>Grown:</strong><span> </span>Cederburg, South Africa and Washington, USA</p>
+<p><strong>Steeping Instructions: </strong> 205°F – 5-10 mins. </p>
+<p><strong>Caffeine: <span>None</span></strong></p>
+<p><strong><span>Pyramid is corn based and is biodegradable.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>chocolate mint</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea pyramid</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1789167796267</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4590001881161</id>
+    <published>2020-12-03T07:52:06-06:00</published>
+    <updated>2020-12-03T07:52:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/licorice-rooibos-50g"/>
+    <title>Licorice Rooibos-50G</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-8.jpg?v=1619638444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc" data-mce-fragment="1">Aniseed imparts a sweet candy-like pungency on tangy licorice.</div>
+<div data-mce-fragment="1"></div>
+<div id="prodingredspecs" data-mce-fragment="1">
+<b data-mce-fragment="1">Luxury Ingredients:<span data-mce-fragment="1"> </span></b>Rooibos, Anise, Sunflower petals, Natural flavours </div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Grown: South Africa, Poland and Egypt</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Brew 5-10 minutes 2 teaspoons 205F</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>licorice</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4590001881161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4561692426313</id>
+    <published>2020-09-22T08:25:00-05:00</published>
+    <updated>2020-09-22T08:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/perfect-cup-spoon-stainless-steel"/>
+    <title>Perfect Cup Spoon-Stainless Steel-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_4adf464b-de08-424e-bf80-f1654f9d27ce.jpg?v=1619638769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Measure the perfect amount of loose leaf tea for every delicious cup of tea.</p>
+<p>Our Perfect Cup Spoon will ensure you get a consistent cup of tea everytime.</p>
+<p>Stainless steel 18/8</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4561692426313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4544444727369</id>
+    <published>2020-08-25T10:56:41-05:00</published>
+    <updated>2020-08-25T10:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grosche-laval-tea-infuser"/>
+    <title>Grosche Laval Tea Infuser</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GROSCHE-Laval-stainless-steel-tea-infuser.jpg?v=1599751946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grosche<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><meta charset="utf-8">The GROSCHE LAVAL loose tea infuser is perfect for any cup, mug, or small teapot. The LAVAL is suitable for all loose leaf teas and won’t allow leaves to seep into your tea. It is made from 18-8 stainless steel and can hold enough loose leaf tea for 2-3 steeps. It is easily removable with the lip of the infuser. </span></p>
+<p><span>Your purchase of this product, GROSCHE is able to provide 50+ days of safe drinking water </span><span>to someone in need. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4544444727369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4408971296841</id>
+    <published>2020-03-23T13:55:01-05:00</published>
+    <updated>2020-03-23T13:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/gift-card"/>
+    <title>Gift Card-Grand River Tea</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/e38bd83af578077b65a31424bd24d085.png?v=1599751789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://grandrivertea.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Grand River Tea gift card.</p>
+<p>Gift cards are delivered by email and contain instructions on how to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4379921121353</id>
+    <published>2020-01-20T09:54:05-06:00</published>
+    <updated>2020-01-20T09:54:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/ginger-lemon-rooibos-40g-decaffeinated"/>
+    <title>Ginger Lemon Rooibos-40G</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GINGERLEMONROOIBOS.jpg?v=1580416340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Tart natural lemon smoothes bakey rooibos notes with a tongue tickling ginger finish a superb combination.</div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Rooibos, Ginger, Pineapple pieces, Lemongrass + Lime leaves, Lemon + Lime pieces, Calendula petals, Natural flavours</div>
+<div id="prodmanucountry">Re brew up to three times don't waste a drop.  High in antioxidants.</div>
+<div id="prodteasfrom">
+<b>Grown:<span> </span></b>South Africa / Thailand / Egypt</div>
+<div>No Caffeine</div>
+<div>
+<strong>Brew:</strong> 1 Tsp 5 Minutes</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>ginger lemon rooibos</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4379921121353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373138210889</id>
+    <published>2020-01-06T10:43:41-06:00</published>
+    <updated>2020-01-06T10:43:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-chocolate-mint-rooibos"/>
+    <title>Mason Jar Chocolate Mint Rooibos-60G</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHOCOLATEMINTROOIBOS_fb4e564a-6574-4358-ac52-c071feaa60dc.jpg?v=1580417069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span>Packed in a zero waste 250ML Mason Jar. </span><br></p>
+<p class="p1">Mint notes tempered with fruity rooibos and a hint of chocolate.  Perfect after dinner tea.</p>
+<p class="p1">Rooibos is very high in antioxidants and is great for your skin.</p>
+<p class="p1">Re brew up to three times.  Don't waste a drop.</p>
+<p class="p1"><strong>Ingredients:</strong> Rooibos, Peppermint leaves, Carob, Cacao bean pieces, Calendula petals and sunflower petals and Natural flavours</p>
+<p><strong>Grown:</strong> Cederburg, South Africa and Washington, USA</p>
+<p><strong>Steeping Instructions:   </strong>2 teaspoon for 8 0unces – 205°F – 5-10 mins. </p>
+<meta charset="utf-8">
+<p><strong>Caffeine: <span>None</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373138210889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1847203102763</id>
+    <published>2019-08-06T10:31:37-05:00</published>
+    <updated>2019-08-06T10:31:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grand-river-chai-rooibos-50g"/>
+    <title>Grand River Chai Rooibos-40G</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GRANDRIVERCHAIROOIBOS.jpg?v=1580416630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you a chai lover but want to enjoy without all the caffeine.  Grand River Tea has created our own chai rooibos.   It's a spicy cuppa add a little frothy milk and let's make it a latte.  </p>
+<p><strong>Ingredients</strong>: Rooibos, Ginger, Turmeric, Cinnamon, Cardamom</p>
+<p>Brew 5-10 minutes 1 tsp 205 deg. F</p>
+<p>Re brew up to three times don't waste a drop.</p>
+<p><strong>Grown</strong>: South Africa, India, Vietnam, Thailand</p>
+<p><strong>No Caffeine</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>chai</s:tag>
+    <s:tag>chai rooibos</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1847203102763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1446777389099</id>
+    <published>2018-08-20T10:00:46-05:00</published>
+    <updated>2018-08-20T10:00:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-green-rooibos-50g"/>
+    <title>Organic Green Rooibos-50g</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0474.jpg?v=1580417517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organic Green Rooibos is one of the more recent developments in Rooibos history. </p>
+<meta charset="utf-8">
+<p><span>Organic Green Rooibos is made with the same plant as the famous African Rooibos or Red Bush. The difference is the green rooibos is not oxidized like regular red rooibos.  The leaves and stems remain green and the infusion has a bright orange colour with a unique earthy flavour.  Green Rooibos is lighter bodied than Red Bush and is said to contain high concentrations of anti-oxidants, vitamins and minerals.</span></p>
+<p><span>Caffeine free</span></p>
+<p><span><strong>Grown:</strong> South Africa</span></p>
+<meta charset="utf-8">
+<p><span><strong>Steeping Instructions:</strong>2 tsp with boiling water for 5-7 minutes can be re brewed up to three times.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green rooibos</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1446777389099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1357610942507</id>
+    <published>2018-06-28T08:35:26-05:00</published>
+    <updated>2018-06-28T08:35:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/cinnamon-rooibos-40g"/>
+    <title>Cinnamon Heart Rooibos- 40g</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CINNAMONHEARTROOIBOS.jpg?v=1580415974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Lightly cinnamon hot. A synergy between rooibos and cinnamon. Orange petals impart a subtle mystery to the finish.  You'll think your consuming cinnamon heart candy.  Unsweetened!</p>
+<p class="p1">Rooibos is high in antioxidants.</p>
+<meta charset="utf-8">
+<p class="p1"><span>Re brew up to three times.  Don't waste a drop.</span></p>
+<p class="p1"><strong>Ingredients:</strong> Rooibos, Cinnamon, Orange Lily flower petals, Natural flavours</p>
+<p class="p1"><strong>Grown:</strong>  Cederburg, South Africa</p>
+<p class="p1"><strong>Steeping Instructions:   </strong>2 teaspoon for 8 0unces – 205°F – 5-10 mins</p>
+<meta charset="utf-8">
+<p class="p1">Caffeine: <span>None</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>cinnamon heart rooibos</s:tag>
+    <s:tag>cinnamon tea</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1357610942507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1357610057771</id>
+    <published>2018-06-28T08:33:29-05:00</published>
+    <updated>2018-06-28T08:33:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/chocolate-mint-rooibos-40g"/>
+    <title>Chocolate Mint Rooibos-40g</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHOCOLATEMINTROOIBOS.jpg?v=1580415858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Mint notes tempered with fruity rooibos and a hint of chocolate.  Perfect after dinner tea.</p>
+<p class="p1">Rooibos is very high in antioxidants and is great for your skin.</p>
+<p class="p1">Re brew up to three times.  Don't waste a drop.</p>
+<p class="p1"><strong>Ingredients:</strong> Rooibos, Peppermint leaves, Cacao bean pieces, Calendula petals, Natural flavours</p>
+<p><strong>Grown:</strong> Cederburg, South Africa and Washington, USA</p>
+<p><strong>Steeping Instructions:   </strong>2 teaspoon for 8 0unces – 205°F – 5-10 mins. </p>
+<meta charset="utf-8">
+<p><strong>Caffeine: <span>None</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>chocolate mint</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1357610057771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1292264669227</id>
+    <published>2018-05-30T15:00:42-05:00</published>
+    <updated>2018-05-30T15:00:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/sunkissed-rooibos-herbal-tea"/>
+    <title>Organic Lemongrass Rooibos Herbal Tea-50g</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0213.jpg?v=1599765313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The perfect marriage in tea! Organic rooibos and organic lemongrass are brought together to present a citrusy-sweet blend. This herbal blend aids digestion and enhances absorption of iron. Members of a Kenyan women’s coop handpick the organic lemongrass in this blend. Your tea purchase directly benefits their employment.</p>
+<p>Non GMO, Rain Forest Certified and Fair Trade Certified.</p>
+<p>Re-steep up to three times.</p>
+<p><strong>Tasting Notes:</strong> Bright and Lingering. Light Nectar and Citrus</p>
+<meta charset="utf-8">
+<p class="p1"><strong><span>Steeping Instructions:   2 teaspoon for 8 0unces – 205°F – 5-7 mins</span></strong></p>
+<p class="p1"><strong>Organic Ingredients: </strong><span class="s1">Organic Long Cut Rooibos, Organic Lemongrass.</span></p>
+<p class="p1"><strong>Caffeine: </strong>None</p>
+<p class="p1"><strong>Features</strong>: The organic herbs in this tea are grown by a Women’s Tea Co-op in Kenya.</p>
+<div>
+<p><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""><br><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>lemongrass</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1292264669227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+</feed>

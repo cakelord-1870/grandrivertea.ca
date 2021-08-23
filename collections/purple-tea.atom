@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/purple-tea.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2021-08-12T14:30:07-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/6594386362441</id>
+    <published>2021-08-12T14:30:07-05:00</published>
+    <updated>2021-08-12T14:30:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-yaupon-1kg"/>
+    <title>Organic Yaupon-1KG</title>
+    <s:type>Yaupon</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_1045_1ca33975-37b7-492b-8318-cb27e4dcd7e1.jpg?v=1628796559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Yaupon<br>
+        <strong>Price: </strong>
+            262.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><meta charset="utf-8"><br></p>
+<p>Yaupon is the only caffeinated plant native to North America.  This plant was used by native Americans and early settlers to North America.  It was even shipped to Europe.   </p>
+<p>Here we are in the 21st century and it has been revived as a sustainable tea.</p>
+<p>It's sustainably wild-harvested, hand packed and the only thing touches this plant is sunshine and rain.</p>
+<p><strong>This medium roast has an amazing aroma of maple a beautiful golden liquor and flavour similar to yerbe matte but sweeter.  </strong></p>
+<p>Packed in a  kraft bag which is biodegradable.  </p>
+<p>Brew 1 teaspoon in 8 ounces of water for 4 -7 minutes</p>
+<p>Re-brew up to three times</p>
+<p>Grown: Texas, USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caffienated</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>north american</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>yaponaboutyaupon</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6594386362441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">262.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6583524327497</id>
+    <published>2021-07-01T10:04:57-05:00</published>
+    <updated>2021-07-01T10:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/drop-kick-organic-yaupon-40g"/>
+    <title>Drop Kick Organic Yaupon-40G</title>
+    <s:type>Yaupon</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_1045_214254e1-6fd7-4d63-a290-3ce74ba170b5.jpg?v=1625151559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Yaupon<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> Grand River Tea is a proud sponsor of The Ontario Wildmen podcast.</p>
+<p> </p>
+<p>Check out the Ontario Wildmen podcast on Youtube</p>
+<p> </p>
+<p>Yaupon is the only caffeinated plant native to North America.  This plant was used by native Americans and early settlers to North America.  It was even shipped to Europe.   </p>
+<p>Here we are in the 21st century and it has been revived as a sustainable tea.</p>
+<p>It's sustainably wild-harvested, hand packed and the only thing touches this plant is sunshine and rain.</p>
+<p><strong>This medium roast has an amazing aroma of maple a beautiful golden liquor and flavour similar to yerbe matte but sweeter.  </strong></p>
+<p>Packed in a  kraft bag which is biodegradable.  </p>
+<p>Brew 1 teaspoon in 8 ounces of water for 4 -7 minutes</p>
+<p>Re-brew up to three times</p>
+<p>Grown: Texas, USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caffienated</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Drop Kick</s:tag>
+    <s:tag>north american</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>yaponaboutyaupon</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6583524327497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6569720676425</id>
+    <published>2021-05-04T08:37:46-05:00</published>
+    <updated>2021-05-04T08:37:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/matcha-tea-wisk"/>
+    <title>Matcha Tea Whisk-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-2_44851638-e12f-47c0-bbce-e955fa4e161c.jpg?v=1620135206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grand River Tea matcha tea Whisk is made from biodegradable bamboo.</p>
+<p> </p>
+<p>Perfect tool for creating your daily matcha.  Try it with our Matcha Green, Organic Hibiscus Matcha Herbal or Masala Chai Match Black.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:tag>Matcha Whisk</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6569720676425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4409817366601</id>
+    <published>2021-04-16T15:29:48-05:00</published>
+    <updated>2021-04-16T15:29:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-strawberry-green-10-tea-pyramids"/>
+    <title>Organic Strawberry Green- 25 Pyramids</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGSTRAWBERRYGREEN_681a1f31-9e02-4b73-a365-261dfb1eba36.jpg?v=1585166448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Very refreshing and reflective. Lush ripe strawberry notes and aroma fill the cup leading to an astringent finish.</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea*, Papaya* + Strawberry pieces*, Natural flavors(organic compliant). *Organic </div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>China</div>
+<div id="prodregions">
+<b>Region(s):<span> </span></b>Hunan Province</div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<strong>Steeping Instructions: </strong><span> Brew 2-4 minutes at 150-160F</span>
+</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic strawberry green tea</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:tag>tea pyramid</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4409817366601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4589996867657</id>
+    <published>2020-11-26T14:06:57-06:00</published>
+    <updated>2020-11-26T14:06:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-sencha-fuji-green-50g"/>
+    <title>Organic Sencha Fuji Green- 50g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-7.jpg?v=1606419616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc" data-mce-fragment="1">Delicious green tea character with depth, body and some pungency. Cup tends bright forest green.</div>
+<div id="prodingredspecs" data-mce-fragment="1">
+<b data-mce-fragment="1">Luxury Ingredients:<span data-mce-fragment="1"> </span></b>Green tea* *Organic Certified Organic by Pro-Cert Organic Systems </div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Grown: Japan/China</div>
+<div data-mce-fragment="1">Brew 1 teaspoon in 8 o/z water at 175F</div>
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1">Re brew a second time.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4589996867657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4561692426313</id>
+    <published>2020-09-22T08:25:00-05:00</published>
+    <updated>2020-09-22T08:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/perfect-cup-spoon-stainless-steel"/>
+    <title>Perfect Cup Spoon-Stainless Steel-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_4adf464b-de08-424e-bf80-f1654f9d27ce.jpg?v=1619638769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Measure the perfect amount of loose leaf tea for every delicious cup of tea.</p>
+<p>Our Perfect Cup Spoon will ensure you get a consistent cup of tea everytime.</p>
+<p>Stainless steel 18/8</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4561692426313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4549650448457</id>
+    <published>2020-09-14T12:00:00-05:00</published>
+    <updated>2020-09-14T12:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/green-yaupon-40g"/>
+    <title>Organic Green Yaupon- 40G-New</title>
+    <s:type>Yaupon</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-3.jpg?v=1619638642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Yaupon<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p>Organic Green yaupon is not roasted like our medium roast yaupon.  It's dried in the same way as green tea which is minimally processed. Steep these beautiful green leaves the same as any green tea.<br></p>
+<p>Here we are in the 21st century and it has been revived as a sustainable tea.</p>
+<p>It's sustainably wild-harvested, hand packed and the only thing touches this plant is sunshine and rain.</p>
+<p>Packed in a  kraft bag which is biodegradable.  </p>
+<p>Brew 1 teaspoon in 8 ounces of water for 4 -7 minutes</p>
+<p>Re-brew up to three times</p>
+<p>Perfect for iced tea!</p>
+<p>Grown: Texas, USA</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4549650448457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4544444727369</id>
+    <published>2020-08-25T10:56:41-05:00</published>
+    <updated>2020-08-25T10:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grosche-laval-tea-infuser"/>
+    <title>Grosche Laval Tea Infuser</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GROSCHE-Laval-stainless-steel-tea-infuser.jpg?v=1599751946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grosche<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><meta charset="utf-8">The GROSCHE LAVAL loose tea infuser is perfect for any cup, mug, or small teapot. The LAVAL is suitable for all loose leaf teas and won’t allow leaves to seep into your tea. It is made from 18-8 stainless steel and can hold enough loose leaf tea for 2-3 steeps. It is easily removable with the lip of the infuser. </span></p>
+<p><span>Your purchase of this product, GROSCHE is able to provide 50+ days of safe drinking water </span><span>to someone in need. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4544444727369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4540845293641</id>
+    <published>2020-08-17T14:33:12-05:00</published>
+    <updated>2020-08-17T14:33:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/rise-and-shine-herbal-40g-canadian-new"/>
+    <title>Rise And Shine Herbal-40G- Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/RISEANDSHINE.jpg?v=1619638834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="265" height="149"></p>
+<meta charset="utf-8">
+<p>Hand picked and ethically wildcrafted in the Canadian wilderness.  Why buy from around the world when you can purchase locally and grown right here in Canada.</p>
+<p> </p>
+<p>Harvested in the Algonquin region in Ontario.  An uplifting tea but without the caffeine.</p>
+<p>Ingredients: Labrador tea, nettle, peppermint, alfalfa, astragalus, meadowsweet, angelica, spearmint and ginseng</p>
+<p>Brew 2-3 minutes at 180- 185F brew up to 3 times</p>
+<p>Caffeine Free, no additives or preservatives</p>
+<p>Certified organic by Pro-Cert</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4540845293641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4540842377289</id>
+    <published>2020-08-17T14:18:58-05:00</published>
+    <updated>2020-08-17T14:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-chamomile-herbal-15g-canadian-new"/>
+    <title>Organic Chamomile Herbal-15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-2.jpg?v=1619638544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span mce-data-marked="1">Take a cup of our Canadian grown chamomile relax, rest and sleep.</span></p>
+<p><span><strong>Ingredients:</strong> Chamomile( Organic Certified)</span></p>
+<p><span><strong>Grown:</strong> Alberta, Canada</span></p>
+<p><strong>Caffeine Free</strong></p>
+<p><span><strong>Brew:</strong> 1-2 teaspoons eight ounces of water.  Brew 5-7 Minutes </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4540842377289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4540760490057</id>
+    <published>2020-08-17T10:54:47-05:00</published>
+    <updated>2020-08-17T10:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-peppermint-15g-canadian"/>
+    <title>Organic Peppermint-15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-1.jpg?v=1619638708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="274" height="154"></p>
+<p><span>Our Canadian Organic Peppermint is a refreshing caffeine-free alternative to regular tea or coffee.  May help with digestion, freshening  breath, help with headaches, relieve cold symptom and help with sleep. </span><br></p>
+<p><span><strong>Ingredients:</strong> Organic Peppermint</span></p>
+<p><span><strong>Grown:</strong> Canada</span></p>
+<p><span><strong>Brew:</strong> 1-2 teaspoon with 8 ounces of boiling water for 5-7 minutes</span></p>
+<p><span>Caffeine Free</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4540760490057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4457085861961</id>
+    <published>2020-05-11T14:26:42-05:00</published>
+    <updated>2020-05-11T14:26:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-daily-herbal-15g"/>
+    <title>Organic Daily Herbal- 15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/DAILYHERBAL.jpg?v=1619638573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿<img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="144" height="81"></p>
+<meta charset="utf-8">
+<p><span>Cup of goodness in our Organic Daily Herbal.  Wonderful anytime of day.  This will become your go to herbal tea.  Put the kettle on don't stop at just one. </span></p>
+<p><span><strong>Ingredients:</strong> Chamomile, Lemon Balm, Stinging Nettle, Peppermint, Wild Raspberry Leaf, Spearmint, Wild Mint, Yarrow ( Organic Certified)</span></p>
+<p><span><strong>Grown:</strong> Canada</span></p>
+<p><strong>Caffeine Free</strong></p>
+<p><span><strong>Brew:</strong> 2 teaspoons eight ounces of water.  Brew 5-7 Minutes </span></p>
+<p><strong>Can be re brewed. </strong></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4457085861961</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4457080291401</id>
+    <published>2020-05-11T14:14:27-05:00</published>
+    <updated>2020-05-11T14:14:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-lullaby-herbal-15g"/>
+    <title>Organic Lullaby Herbal- 15G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/LULLABY.jpg?v=1619638683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="137" height="77"></p>
+<meta charset="utf-8">
+<p><span>Calming herbs that will help you sleep.  Contains organic certified Canadian grown ingredients.  Nighty night!</span></p>
+<p><span><strong>Ingredients:</strong> Organic Lemon Catnip, Lemon Balm and Chamomile</span></p>
+<p><span><strong>Grown:</strong> Canada</span></p>
+<p><span><strong>Brew:</strong> 2 teaspoon with 8 ounces of boiling water for 5-7 minutes</span></p>
+<p><span>Caffeine Free</span></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4457080291401</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4412037038153</id>
+    <published>2020-03-31T08:25:31-05:00</published>
+    <updated>2020-03-31T08:25:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/dandelion-herbal"/>
+    <title>Organic Dandelion Leaf - Herbal- 20G-Canadian-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Dandelionherbal.jpg?v=1619638601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><br></p>
+<p class="p1">Our organic dandelion is grown and harvested from Alberta Canada.  We're very proud of our latest herbal. </p>
+<p class="p1">Spring time is a perfect time to start consuming dandelion tea.  May help with detoxifying your liver.  Dandelion is high in minerals such as iron, calcium, magnesium and potassium.  </p>
+<p class="p1"><strong>Ingredients:</strong> 100% Organic Dandelion Leaf</p>
+<p><strong>Grown:</strong><span> Alberta, Canada</span></p>
+<p><strong>Steeping Instructions: </strong> 205°F – 5-10 mins. </p>
+<p><strong>Caffeine: <span>None</span></strong></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>dandelion</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4412037038153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4408971296841</id>
+    <published>2020-03-23T13:55:01-05:00</published>
+    <updated>2020-03-23T13:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/gift-card"/>
+    <title>Gift Card-Grand River Tea</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/e38bd83af578077b65a31424bd24d085.png?v=1599751789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://grandrivertea.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Grand River Tea gift card.</p>
+<p>Gift cards are delivered by email and contain instructions on how to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4374866362441</id>
+    <published>2020-01-09T09:45:30-06:00</published>
+    <updated>2020-01-09T09:45:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-wild-blueberry-black-50g"/>
+    <title>Organic Wild Blueberry Black-50G</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGWILDBLUEBERRYBLACK.jpg?v=1580417770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div><br></div>
+<div id="prodcupdesc">Intoxicating aroma with the flavour of wild blueberries. What an amazing blueberry treat.</div>
+<div>A pinch of sugar makes a stunning tea, iced or hot!</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Black tea*, Elderberry* + Currant pieces*, Hibiscus petals*, Natural flavours(organic pro certified)</div>
+<div></div>
+<div><strong>Contains Caffeine</strong></div>
+<div><strong></strong></div>
+<div>
+<strong>Grown:</strong> Ceylon, Sri Lanka</div>
+<div></div>
+<div>Brew 3-4 Minutes 1 tsp for 8 ounces of water 205 Deg F</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>blueberry</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic wild blueberry black tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>wildblueberry black</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4374866362441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373142405193</id>
+    <published>2020-01-06T10:59:27-06:00</published>
+    <updated>2020-01-06T10:59:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-organic-grand-river-zen-herbal-30g"/>
+    <title>Mason Jar Organic Grand River Zen-30G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GRANDRIVERZEN_b380c100-9087-4e52-a702-80700f80d38c.jpg?v=1580141841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Packed in a zero waste 250ML mason jar.  </p>
+<p>Sweet, exotic, with notes of fruit and a light spearmint finish.  What a perfect way to relax at the end of a long day.</p>
+<p>The aroma is so inviting and relaxing.  Say ahhh!!!</p>
+<p><strong>Ingredients:</strong> Peppermint, Spearmint leaves, Honeybush, Camomile, Hibiscus, Calendula, Rose, Osmanthus petals.  Organic Certified</p>
+<p><strong>Grown:</strong> Washington-USA, Nile River Delta- Egypt, Cederburg-South Africa</p>
+<meta charset="utf-8">
+<p><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 4-7 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zen</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373142405193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373141979209</id>
+    <published>2020-01-06T10:58:07-06:00</published>
+    <updated>2020-01-06T10:58:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-organic-bella-coola-fruit-tea"/>
+    <title>Mason Jar Organic Bella Coola Fruit-75G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/bellacoola_15171f4a-f57e-4e96-aec6-f881c3423f31.jpg?v=1580141772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Packed in a zero waste 250ML mason jar.  Pick up orders only on scheduled pick up date.</div>
+<div id="prodcupdesc">A predominant orange character with the lovely sweetness of pineapple.  This is an amazing and refreshing fruit tea which is, wonderful hot or cold.  We love this one the best iced in the summer.  Let your imagination run wild with ways to serve as a cocktail with wine, liquor.  Give it a try. Iced tea heaven!</div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Apple, Rosehip, Orange pieces, Hibiscus petals, Natural flavours </div>
+<div id="prodmanucountry">
+<b>Small Batch Blended and Packed in:</b><span> </span>Canada</div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>Turkey / Chile / Egypt</div>
+<div id="prodregions"><strong>Caffeine Free</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bella coola</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373141979209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1789135552555</id>
+    <published>2019-05-13T08:39:00-05:00</published>
+    <updated>2019-05-13T08:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-bella-coola-fruit-100g"/>
+    <title>Organic Bella Coola Fruit- 60G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/bellacoola.jpg?v=1580417228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">A predominant orange character with the lovely sweetness of pineapple.  This is an amazing and refreshing fruit tea which is, wonderful hot or cold.  We love this one the best iced in the summer.  Let your imagination run wild with ways to serve as a cocktail with wine, liquor.  Give it a try. Iced tea heaven!</div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Apple, Rosehip, Orange pieces, Hibiscus petals, Natural flavours -Organic Ingredients</div>
+<div id="prodmanucountry">
+<b>Small Batch Blended and Packed in:</b><span> </span>Canada</div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>Turkey / Chile / Egypt</div>
+<div id="prodregions"><strong>Caffeine Free</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bella coola</s:tag>
+    <s:tag>bella coola fruit</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1789135552555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1684499005483</id>
+    <published>2019-01-28T07:41:54-06:00</published>
+    <updated>2019-01-28T07:41:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/yaupon-40g"/>
+    <title>Organic Yaupon-40G</title>
+    <s:type>Yaupon</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_1045_0bb17654-241f-4641-9f65-f978405c1191.jpg?v=1580418231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Yaupon<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><meta charset="utf-8"><br></p>
+<p>Yaupon is the only caffeinated plant native to North America.  This plant was used by native Americans and early settlers to North America.  It was even shipped to Europe.   </p>
+<p>Here we are in the 21st century and it has been revived as a sustainable tea.</p>
+<p>It's sustainably wild-harvested, hand packed and the only thing touches this plant is sunshine and rain.</p>
+<p><strong>This medium roast has an amazing aroma of maple a beautiful golden liquor and flavour similar to yerbe matte but sweeter.  </strong></p>
+<p>Packed in a  kraft bag which is biodegradable.  </p>
+<p>Brew 1 teaspoon in 8 ounces of water for 4 -7 minutes</p>
+<p>Re-brew up to three times</p>
+<p>Grown: Texas, USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>caffienated</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>north american</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>yaponaboutyaupon</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1684499005483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1549358465067</id>
+    <published>2018-10-17T13:39:39-05:00</published>
+    <updated>2018-10-17T13:39:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-strawberry-green-50g"/>
+    <title>Organic Strawberry Green- 50g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGSTRAWBERRYGREEN.jpg?v=1580417741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Very refreshing and reflective. Lush ripe strawberry notes and aroma fill the cup leading to an astringent finish.</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea*, Papaya* + Strawberry pieces*, Natural flavors(organic compliant). *Organic </div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>China</div>
+<div id="prodregions">
+<b>Region(s):<span> </span></b>Hunan Province</div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<strong>Steeping Instructions: </strong><span> 1 tsp per 8 ounces of water. Brew 2-4 minutes at 150-160F</span>
+</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic strawberry green tea</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1549358465067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1547971035179</id>
+    <published>2018-10-16T10:55:51-05:00</published>
+    <updated>2018-10-16T10:55:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/immunity-herbal-40g-organic"/>
+    <title>Immunity Herbal- 40G Organic-Canadian Grown</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-1_56a16b43-33c4-4dc0-b619-17c805312bfd.jpg?v=1619638316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="265" height="149"></p>
+<p>Hand picked and ethically wildcrafted in the Canadian wilderness.  Why buy from around the world when you can purchase locally grown right here in Canada.</p>
+<p>Ingredients: sweetfern, red clover, raspberry leaves, roots of burdock, echinacea, yellow dock and dandelion.  Organic</p>
+<p>Brew 3 minutes at 185F brew up to 2 times</p>
+<p>Caffeine Free, no additives or preservatives</p>
+<p>Certified organic by Pro-Cert</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>canadian grown</s:tag>
+    <s:tag>canadian tea</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>immunity herbal</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1547971035179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1547968479275</id>
+    <published>2018-10-16T10:53:45-05:00</published>
+    <updated>2018-10-16T10:53:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/winter-cold-flu-soother-herbal-30g-organic"/>
+    <title>Winter Cold &amp; Flu Soother- Herbal 30G Organic-Canadian Grown</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Wintercoldandflusoother.jpg?v=1599765741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="299" height="168"></p>
+<p>Hand picked and ethically wildcrafted in the Canadian wilderness.  Why buy from around the world when you can purchase locally grown right here in Canada.</p>
+<p>Ingredients: giant blue hyssop, red clover, raspberry leaves. Organic</p>
+<p>Brew 2-3 minutes at 180- 185F brew up to 3 times</p>
+<p>Caffeine Free, no additives or preservatives</p>
+<p>Certified organic by Pro-Cert</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>cold</s:tag>
+    <s:tag>cold and flue soother</s:tag>
+    <s:tag>cold and flue tea</s:tag>
+    <s:tag>flu</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>remedy</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1547968479275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1547965005867</id>
+    <published>2018-10-16T10:51:11-05:00</published>
+    <updated>2018-10-16T10:51:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/joy-of-sleeping-herbal-40g-organic"/>
+    <title>Joy of Sleeping- Herbal 40G Organic-Canadian Grown</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/joyofsleepingherbal.jpg?v=1599752131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="302" height="170"></p>
+<p>Hand picked and ethically wildcrafted in the Canadian wilderness.  Why buy from around the world when you can purchase locally grown right here in Canada.</p>
+<p>Ingredients: blue vervain, lemon balm, catnip, oat straw, red bergamot, chamomile, hops, motherwort, valerian, skullcap, St John's wort Organic</p>
+<p>Brew 3-4 minutes at 175- 180F brew up to 2 times</p>
+<p>Caffeine Free, no additives or preservatives</p>
+<p>Certified organic by Pro-Cert</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>canadian</s:tag>
+    <s:tag>canadian grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>sleeping</s:tag>
+    <s:tag>sleeping tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1547965005867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1547961401387</id>
+    <published>2018-10-16T10:47:07-05:00</published>
+    <updated>2018-10-16T10:47:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/meditation-herbal-organic-40g"/>
+    <title>Meditation-Herbal Organic - 40g-Canadian Grown</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/meditationherbal.jpg?v=1599752619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/2697/6254/files/flag_480x480.jpg?v=1589224544" alt="" width="309" height="174"></p>
+<p>Hand picked and ethically wildcrafted in the Canadian wilderness.  Why buy from around the world when you can purchase locally and grown right here in Canada.</p>
+<p>Ingredients: white pine, sweet grass, sage Organic</p>
+<p>Brew 3-4 minutes at 175- 180F brew up to 2 times</p>
+<p>Caffeine Free, no additives or preservatives</p>
+<p>Certified organic by Pro-Cert</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>meditation</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1547961401387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

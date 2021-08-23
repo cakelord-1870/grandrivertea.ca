@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/zero-waste-tea.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2021-04-22T10:23:09-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/6567721041993</id>
+    <published>2021-04-22T10:23:09-05:00</published>
+    <updated>2021-04-22T10:23:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-matcha-green-70g"/>
+    <title>Mason Jar Matcha Green- 70G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/MATCHAGREENTEA_c155a5c3-b22a-481e-9438-9e2a9563108e.jpg?v=1628008594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><br></p>
+<p>Tea will be packed in a zero waste 250ML mason jar.</p>
+<p>There is perhaps no tea on today's market as celebrated or as famous as Matcha.</p>
+<p>Once upon a time Matcha was left for the very special Japanese Tea Ceremony. </p>
+<p>But we've relaxed our use of matcha.  It can be served cold, added to your favourite smoothie, baked good or make yourself a latte.</p>
+<p>Our matcha is made from the Gyokuro leaves that have been shaded under special shade covers for 3 weeks giving the leaves a rich green colour.  Once plucked, the leaves are steamed and dried then stone ground powder.</p>
+<p>Matcha has three times the amount of antioxidants of regular green tea.</p>
+<p>Hot Tea: Use 1/2 teaspoon per 8 ounces of hot water.  Mix vigorously to make a smooth paste-like liquid.  Enjoy as is or top with freshly steamed milk and sweeten to taste.</p>
+<p class="p1"><strong>Ingredients:</strong> Green Tea</p>
+<p><strong>Grown:</strong><span> Japan and Kenya</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6567721041993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4598867001417</id>
+    <published>2021-01-05T12:47:54-06:00</published>
+    <updated>2021-01-05T12:47:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-berry-berry-fruit-90g"/>
+    <title>Mason Jar Berry Berry Fruit- 90G-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG-3565_9170916b-5108-4660-a78f-80d9ea21d062.jpg?v=1609872348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>A full flavoured tea with deep berry notes. The infused cup is burgundy red and provides strength and character. A terrific tasting fruit/herbal tea.</p>
+<p> </p>
+<p>Packed in a zero waste 250ML mason jar</p>
+<p>Ingredients: Elderberries, Currant, Hibiscus, Natural Flavours<br></p>
+<p><strong>Caffeine Free Herbal and Fruit</strong></p>
+<p><strong>Grown:</strong><span> Turkey, Greece, Egypt</span></p>
+<p><strong>Steeping Instructions:<span> </span></strong>2<span> teaspoons for 8 ounces – 205°F  5-10 Minutes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Berry Berry Fruit</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4598867001417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4593719738441</id>
+    <published>2020-12-13T10:29:14-06:00</published>
+    <updated>2020-12-13T10:29:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-hibiscus-40g"/>
+    <title>Mason Jar Hibiscus-35g-New</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/HIBISCUS_4b651a59-914d-41ed-aec0-dd0d6bb79932.jpg?v=1607876680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hibiscus has  lovely deep red infusion similar to grenadine with a taste close to lemonade.  This is a keeper for those who love making iced tea or sipping hot. </p>
+<p>Use your imagination for those cocktail making nights.</p>
+<p>High in antioxidants.  Very hydrating.</p>
+<p>Packed in a zero waste reusable 250ml mason jar</p>
+<p><strong>Ingredients:</strong>Hibiscus Petals</p>
+<p><strong>Grown:</strong> Nile River Delta, Egypt</p>
+<meta charset="utf-8">
+<p><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 4-7 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>hibiscus</s:tag>
+    <s:tag>hibiscus tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4593719738441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4593428365385</id>
+    <published>2020-12-11T10:47:51-06:00</published>
+    <updated>2020-12-11T10:47:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-kenyan-chai-black-tea-70g"/>
+    <title>Mason Jar Kenyan Chai Black Tea- 70g-New</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0216_7a122ce1-22a8-4e64-ac2e-5cdaf2e96fcf.jpg?v=1607704921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong> </strong>‘Chai’ actually just means ‘tea’, but here in the west, we have adopted the term to mean spiced tea. Our Kenyan Chai is spiced with a unique bouquet of cloves, cinnamon, fennel and rose petals. Totally different from a spicy Indian Masala Chai, this has been known to make chai devotees rethink how they drink their chai! Also delicious as an iced tea!</p>
+<p>Packed in a zero waste reusable 250ml mason jar</p>
+<meta charset="utf-8">
+<p><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></p>
+<p><strong>Tasting Notes:</strong> Sweet and Spicy </p>
+<meta charset="utf-8">
+<p class="p1"><strong>Steeping Instructions:<span> </span><span>1 teaspoon per 8 ounces water – 205°F – 3 mins</span></strong></p>
+<p class="p1"><strong>Natural Ingredients:</strong> Rainforest Alliance Kenyan Black tea, allspice, clove, fennel, cinnamon, licorice root, ginger, black pepper, rose petals.</p>
+<p class="p1"><strong>Caffeine: </strong>Medium</p>
+<p> </p>
+<div>
+<p><a href="https://www.nongmoproject.org/" class="alignnone" target="_blank"><img class="alignnone wp-image-10807 size-full" src="https://justea.com/wp-content/uploads/2016/03/non-gmo-product-verified-seal-square.png" alt="Our tea is a NON-GMO Product." width="150" height="145"><span class="image-overlay overlay-type-extern"><span class="image-overlay-inside"></span></span></a><a href="https://www.rainforest-alliance.org/" class="alignnone" target="_blank"><img class="alignnone wp-image-10246 size-full" src="https://justea.com/wp-content/uploads/2016/03/rainforest-alliance-certified-seal-xs.png" alt="Our tea is Rainforest Alliance certified." width="150" height="145"><span class="image-overlay overlay-type-extern"><span class="image-overlay-inside"></span></span></a><a href="http://www.fairtradefederation.org/" class="alignnone" target="_blank"><img class="alignnone wp-image-11128" src="https://justea.com/wp-content/uploads/2016/03/FTF_Member_Logo_Black-253x300.png" alt="Our tea is Fair Trade Federation Certified" width="112" height="133"><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>chai</s:tag>
+    <s:tag>kenyan chai tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4593428365385</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4568064327753</id>
+    <published>2020-10-05T09:47:02-05:00</published>
+    <updated>2020-10-05T09:47:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-wast-vanilla-chocolate-black-50g"/>
+    <title>Mason Jar Vanilla Chocolate Black-50G</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_2de410b5-b01a-471f-b780-243a7642ce20.jpg?v=1601984666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Packed in a zero waste 250ML mason jar.</p>
+<p><meta charset="utf-8">Smooth and creamy vanilla chocolate finish.  An impressive blend to end a perfect dinner party!</p>
+<p>1 teaspoon 3-4 minutes 205 Deg F.</p>
+<p>Ingredients: Black Tea, Cocoa Beans, Bamboo Leave, Calendula Petals, Chamomile Petals and natural flavours</p>
+<p>Grown: Sri Lanka, Kenya, India, China, Egypt</p>
+<p><span style="text-decoration: underline;"><strong></strong></span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4568064327753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4459453612105</id>
+    <published>2020-05-13T09:15:31-05:00</published>
+    <updated>2020-05-13T09:15:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-masala-chai-black-100g"/>
+    <title>Mason Jar Masala Chai Black- 100G</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/masalachai_31fb0330-ef7a-443f-92c3-4a25acd29df8.jpg?v=1619637823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Full bodied tea enhances South Indian masala spices. The finish has cardamom notes peeking out from lively ginger. Superb with milk and sugar.</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Black tea, Ginger, Cinnamon, Cardamom, Black + White pepper, Clove, Nutmeg. </div>
+<div id="prodmanucountry"><br></div>
+<div>Packed in a zero waste 250ml mason jar</div>
+<div></div>
+<div id="prodteasfrom">
+<b>Grown:<span> </span></b>India / Kenya / Thailand</div>
+<div id="prodregions"><br></div>
+<div id="prodcafflvl">
+<b>Caffeine Content:</b><span> </span>Medium</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4459453612105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373143322697</id>
+    <published>2020-01-06T11:02:52-06:00</published>
+    <updated>2020-01-06T11:02:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-strawberry-cocoa-fruit-tea-50g"/>
+    <title>Mason Jar Strawberry Cocoa Fruit Tea-50G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/strawberrycocoa_596cfb7a-5064-4d18-bd7c-319b84e6cfc8.jpg?v=1580141994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Packed in a zero waste 250ML mason jar.  </div>
+<div></div>
+<div></div>
+<div>This is unmistakably the most aromatic fruit tea of strawberries and chocolate without the guilt of sugar.  Delicious hot or cold.  Iced tea heaven!</div>
+<div></div>
+<div><b></b></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Apple,Hibiscus, Rosehip, Strawberry,Papaya, Cocoa pieces, Cornflower petals, Natural flavours</div>
+<div id="prodmanucountry"></div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>Turkey / Egypt / China / India / Albania</div>
+<div><strong>No Caffeine</strong></div>
+<div id="prodregions"><b></b></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>cocoa</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>strawberry cocoa fruit tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373143322697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373143191625</id>
+    <published>2020-01-06T11:01:30-06:00</published>
+    <updated>2020-01-06T11:01:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-purple-rain-leaf-tea-45g"/>
+    <title>Mason Jar Purple Rain Leaf Tea-45G</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0212_40c718d3-7a46-4337-9af5-429764a20913.jpg?v=1580141904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><strong>Packed in a zero waste 250ML mason jar.  </strong></p>
+<p><strong>Purple Rain:</strong> A cup of Purple Rain will make your taste buds sing. Enjoy this bright tropical infusion of juicy passion fruit, sweet lemongrass, crisp apple, and a hint of hibiscus. Iced tea heaven! Wonderful hot.</p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes:</strong> Bright &amp; Lively. Tropical Fruit &amp; Hibiscus</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –190°F – 4 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Organic Lemongrass, Kenyan Purple Tea, Hibiscus, Apple Pieces, Rosehips, Natural Passion Fruit Flavour.</p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<div>
+<p><a href="http://www.fairtradefederation.org/" class="alignnone" target="_blank"><br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""><br><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>leaf tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>purple rain leaf tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373143191625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>215</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373142405193</id>
+    <published>2020-01-06T10:59:27-06:00</published>
+    <updated>2020-01-06T10:59:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-organic-grand-river-zen-herbal-30g"/>
+    <title>Mason Jar Organic Grand River Zen-30G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GRANDRIVERZEN_b380c100-9087-4e52-a702-80700f80d38c.jpg?v=1580141841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Packed in a zero waste 250ML mason jar.  </p>
+<p>Sweet, exotic, with notes of fruit and a light spearmint finish.  What a perfect way to relax at the end of a long day.</p>
+<p>The aroma is so inviting and relaxing.  Say ahhh!!!</p>
+<p><strong>Ingredients:</strong> Peppermint, Spearmint leaves, Honeybush, Camomile, Hibiscus, Calendula, Rose, Osmanthus petals.  Organic Certified</p>
+<p><strong>Grown:</strong> Washington-USA, Nile River Delta- Egypt, Cederburg-South Africa</p>
+<meta charset="utf-8">
+<p><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 4-7 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zen</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373142405193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373141979209</id>
+    <published>2020-01-06T10:58:07-06:00</published>
+    <updated>2020-01-06T10:58:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-organic-bella-coola-fruit-tea"/>
+    <title>Mason Jar Organic Bella Coola Fruit-75G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/bellacoola_15171f4a-f57e-4e96-aec6-f881c3423f31.jpg?v=1580141772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Packed in a zero waste 250ML mason jar.  Pick up orders only on scheduled pick up date.</div>
+<div id="prodcupdesc">A predominant orange character with the lovely sweetness of pineapple.  This is an amazing and refreshing fruit tea which is, wonderful hot or cold.  We love this one the best iced in the summer.  Let your imagination run wild with ways to serve as a cocktail with wine, liquor.  Give it a try. Iced tea heaven!</div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Apple, Rosehip, Orange pieces, Hibiscus petals, Natural flavours </div>
+<div id="prodmanucountry">
+<b>Small Batch Blended and Packed in:</b><span> </span>Canada</div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>Turkey / Chile / Egypt</div>
+<div id="prodregions"><strong>Caffeine Free</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bella coola</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373141979209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373141422153</id>
+    <published>2020-01-06T10:55:43-06:00</published>
+    <updated>2020-01-06T10:55:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-kenyan-oolong"/>
+    <title>Mason Jar Kenyan Oolong-60G</title>
+    <s:type>Oolong</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/KENYANOOLONG_7ba6a972-1e25-498c-bec2-f880806f3795.jpg?v=1580141667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Oolong<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Tea will be packed in a zero waste 250ML mason jar.  </p>
+<p class="p1">A rare find from Kenya, this oolong tea is meticulously crafted in small batches.  Hand-plucked, withered, tossed, panned, rolled and then dried, these complex processing steps result in an exquisite cup of tea.  Enjoy!</p>
+<meta charset="utf-8">
+<p class="p1"><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p class="p1"><strong>Tasting Notes: </strong>Smooth floral flavours with a hint of honey</p>
+<p><strong>Steeping Instructions:<span> </span></strong>1 tea spoon – 190°F – 3 mins. Re steep 2-3 times</p>
+<p class="p1"><strong>Ingredients: </strong>Kenyan Oolong Tea</p>
+<p class="p1"><strong>Medium Caffeine</strong></p>
+<p class="p1"><strong>Features:<br></strong>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.<br>Artisanal tea leaves… You will be amazed at the giant tea leaves steeping deliciousness in your cup.  Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.<br><br></p>
+<p class="p1"><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadian</s:tag>
+    <s:tag>kenyan oolong</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373141422153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373140537417</id>
+    <published>2020-01-06T10:52:01-06:00</published>
+    <updated>2020-01-06T10:52:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-kenyan-green-tea"/>
+    <title>Mason Jar Kenyan Green Tea-50G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/KENYANGREENTEA_494e83d7-a5dc-4c3c-8944-afb71daa48cd.jpg?v=1580141609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Packed in a zero waste 250ML mason jar.  </span></p>
+<p><span>A clean and smooth green tea that is unlike any other green tea on the market. Whole tea leaves steep multiple infusions of vibrant green liquor.  A must-have for any green tea drinker!</span></p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes: </strong>Crisp asparagus, fresh cabbage and toasted oats.</p>
+<p>Re-steep these whole tea leaves 2-3 times </p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 tea spoon – 175°F – 3 mins</p>
+<p class="p1"><strong>Ingredients: </strong>Kenyan Green Tea</p>
+<p class="p1"><strong>Features:<br></strong>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.<br>Artisanal tea leaves… You will be amazed at the giant tea leaves steeping deliciousness in your cup.  Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.<br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>kenyan green tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373140537417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373140078665</id>
+    <published>2020-01-06T10:50:24-06:00</published>
+    <updated>2020-01-06T10:50:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-grand-river-breakfast-black-60g"/>
+    <title>Mason Jar Grand River Breakfast Black-60G</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GRANDRIVERBREAKFAST_e624cde3-5785-411c-8aae-29cfde0a6e14.jpg?v=1580140929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><span>Packed in a 250ML zero waste mason jar.  </span></p>
+<p><span>This rich black tea is fresh and smooth, but packs a serious hit of flavour. Sweet and complex on its own, but equally superb with a splash of milk and sugar. Also delicious as an iced tea!</span></p>
+<p>Luxury Ingredients: Black Tea (Non GMO, Pesticide Free, Fair Trade Member, Rainforest Alliance Certified)</p>
+<p>Grown: Kenya, South Africa</p>
+<meta charset="utf-8">
+<p><span>Brew: 3-4 Minutes 1 tsp. 205 Deg F</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373140078665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373139095625</id>
+    <published>2020-01-06T10:47:25-06:00</published>
+    <updated>2020-01-06T10:47:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-creme-earl-grey"/>
+    <title>Mason Jar Creme Earl Grey-50G</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CREMEEARLGREY_d701c4dc-1de7-42ea-93a7-be6c8c3f446b.jpg?v=1580140800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Tea will be packed in a zero waste reusable 250ML mason jar.</p>
+<p class="p1">Our flavory Earl Grey mellowed with a delicious creamy taste.<span class="Apple-converted-space"> Enjoy anytime of day. </span></p>
+<p class="p1"><span class="Apple-converted-space">This tea makes delicious Earl Grey Shortbread cookies!</span></p>
+<meta charset="utf-8">
+<p><strong><u>Earl Grey Shortbread Cookies</u></strong></p>
+<p><strong>Ingredients</strong> </p>
+<p>2 cups all purpose flour</p>
+<p>2 tablespoons <strong>Grand River Tea Earl Grey Crème tea leaves</strong></p>
+<p>½ teaspoon salt</p>
+<p>¾ cup confectioners’ sugar</p>
+<p>1 teaspoon pure vanilla extract</p>
+<p>1 cup butter room temperature</p>
+<p> </p>
+<p><strong>Directions</strong></p>
+<p>In a food processor, pulse together the flour, tea and salt until the tea is just spotted throughout the flour.</p>
+<p>Add the confectioners sugar, vanilla, and butter. Pulse together just until a dough is formed.</p>
+<p>Place dough on a sheet of plastic wrap and roll into a log about 2 ½ inches in diameter. Tightly twist each end of wrap and chill in refrigerator for 30 minutes.</p>
+<p>Preheat oven to 375 degrees F </p>
+<p>Slice the log into 1/3 inch thick disks. Place on parchment lined baking sheets 2 inches apart. </p>
+<p>Bake until the edges are just brown about 12 minutes. Let cool for 5 minutes then transfer to wire racks and cool to room temperature. </p>
+<p>Enjoy!!!!!</p>
+<p class="p1"><strong>Ingredients: </strong>Black tea, Cornflower petals, Natural flavours </p>
+<p class="p1"><strong>Grown:</strong> Sri Lanka</p>
+<meta charset="utf-8">
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong><span>1 teaspoon per 8 ounces water – 205°F – 3 mins</span></p>
+<p class="p1"><span>Caffeine: Medium</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373139095625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373138210889</id>
+    <published>2020-01-06T10:43:41-06:00</published>
+    <updated>2020-01-06T10:43:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-chocolate-mint-rooibos"/>
+    <title>Mason Jar Chocolate Mint Rooibos-60G</title>
+    <s:type>Rooibos</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHOCOLATEMINTROOIBOS_fb4e564a-6574-4358-ac52-c071feaa60dc.jpg?v=1580417069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Rooibos<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span>Packed in a zero waste 250ML Mason Jar. </span><br></p>
+<p class="p1">Mint notes tempered with fruity rooibos and a hint of chocolate.  Perfect after dinner tea.</p>
+<p class="p1">Rooibos is very high in antioxidants and is great for your skin.</p>
+<p class="p1">Re brew up to three times.  Don't waste a drop.</p>
+<p class="p1"><strong>Ingredients:</strong> Rooibos, Peppermint leaves, Carob, Cacao bean pieces, Calendula petals and sunflower petals and Natural flavours</p>
+<p><strong>Grown:</strong> Cederburg, South Africa and Washington, USA</p>
+<p><strong>Steeping Instructions:   </strong>2 teaspoon for 8 0unces – 205°F – 5-10 mins. </p>
+<meta charset="utf-8">
+<p><strong>Caffeine: <span>None</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373138210889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373136375881</id>
+    <published>2020-01-06T10:34:37-06:00</published>
+    <updated>2020-01-06T10:34:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-chilly-mint-herbal"/>
+    <title>Mason Jar Chilly Mint Herbal-30G</title>
+    <s:type>Herbal</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/CHILLYMINT_46b9e5d4-da9c-4614-98be-8568bc79fbbe.jpg?v=1580417042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Herbal<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Packed in a zero waste 250ML Mason Jar.  </p>
+<p class="p1">If you love peppermint this is your go to herbal tea.  Very refreshing cold or hot.</p>
+<p class="p1">Pungent, cool, fresh, menthol. Infused leaf is bright green, tending yellowish. <strong>Ingredients:</strong> Peppermint leaves</p>
+<p class="p1"><strong>Grown:</strong> Washington, USA</p>
+<meta charset="utf-8">
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong><span>2 teaspoons for 8 ounces – 205°F – 5-10 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>chilly mint</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373136375881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+</feed>

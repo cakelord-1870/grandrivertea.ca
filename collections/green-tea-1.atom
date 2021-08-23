@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/green-tea-1.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2021-08-12T14:26:42-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/6594385936457</id>
+    <published>2021-08-12T14:26:42-05:00</published>
+    <updated>2021-08-12T14:26:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-jasmine-tea-1kg"/>
+    <title>Purple Jasmine  Tea-1KG</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Purple-Jasmine_0cc38432-8183-46ae-b046-24c8f286a5f4.png?v=1628796356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purple Jasmine:</strong><span> </span>A cup of Purple Jasmine is fresh and delicate. The enchanting fragrance of real jasmine blossoms creates the perfect pairing of tea and flowers.</p>
+<p><strong>Tasting Notes:</strong><span> </span>Light &amp; Floral. Spring Jasmine &amp; Honey</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –175°F – 2 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Jasmine Green Tea, <span class="s1">Kenyan Purple Tea, Jasmine Blossoms, Cornflower Blossoms</span><span class="s1">.</span></p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<p class="p1"> </p>
+<div>
+<p><a href="https://www.nongmoproject.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><img class="alignnone wp-image-10807 size-full" src="https://justea.com/wp-content/uploads/2016/03/non-gmo-product-verified-seal-square.png" alt="Our tea is a NON-GMO Product." width="150" height="145"><span class="image-overlay overlay-type-extern"><span class="image-overlay-inside"></span></span></a><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img class="alignnone wp-image-11128" src="https://justea.com/wp-content/uploads/2016/03/FTF_Member_Logo_Black-253x300.png" alt="Our tea is Fair Trade Federation Certified" width="112" height="133"><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>jasmine tea</s:tag>
+    <s:tag>purple jasmine tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6594385936457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6569923215433</id>
+    <published>2021-05-04T15:13:03-05:00</published>
+    <updated>2021-05-04T15:13:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/jasmine-green-25-pyramids"/>
+    <title>Jasmine Green-25 Pyramids</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-1_1d5e24f4-8986-457d-90a0-9231bd5fc83a.jpg?v=1620159016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Green tea accentuated by specially selected May jasmine blossoms.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">No artificial or natural flavours here 100% natural ingredients.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong>Luxury Ingredients:</strong> Green Tea, Jasmine Flowers.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong>Grown:</strong> China</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div id="prodcupdesc" data-mce-fragment="1"></div>
+<p><meta charset="utf-8"><strong data-mce-fragment="1">Steeping Instructions:<span data-mce-fragment="1"> </span></strong><span data-mce-fragment="1"> 175°F – 3 mins</span></p>
+<p><span data-mce-fragment="1"><strong>Caffeine:</strong> Low</span></p>
+<p><span style="font-size: 19.6px;"><br></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>jasmine green</s:tag>
+    <s:tag>jasmine tea</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:tag>tea pyramids</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6569923215433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6569720676425</id>
+    <published>2021-05-04T08:37:46-05:00</published>
+    <updated>2021-05-04T08:37:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/matcha-tea-wisk"/>
+    <title>Matcha Tea Whisk-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-2_44851638-e12f-47c0-bbce-e955fa4e161c.jpg?v=1620135206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grand River Tea matcha tea Whisk is made from biodegradable bamboo.</p>
+<p> </p>
+<p>Perfect tool for creating your daily matcha.  Try it with our Matcha Green, Organic Hibiscus Matcha Herbal or Masala Chai Match Black.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>bamboo</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:tag>Matcha Whisk</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6569720676425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6567721041993</id>
+    <published>2021-04-22T10:23:09-05:00</published>
+    <updated>2021-04-22T10:23:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-matcha-green-70g"/>
+    <title>Mason Jar Matcha Green- 70G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/MATCHAGREENTEA_c155a5c3-b22a-481e-9438-9e2a9563108e.jpg?v=1628008594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><br></p>
+<p>Tea will be packed in a zero waste 250ML mason jar.</p>
+<p>There is perhaps no tea on today's market as celebrated or as famous as Matcha.</p>
+<p>Once upon a time Matcha was left for the very special Japanese Tea Ceremony. </p>
+<p>But we've relaxed our use of matcha.  It can be served cold, added to your favourite smoothie, baked good or make yourself a latte.</p>
+<p>Our matcha is made from the Gyokuro leaves that have been shaded under special shade covers for 3 weeks giving the leaves a rich green colour.  Once plucked, the leaves are steamed and dried then stone ground powder.</p>
+<p>Matcha has three times the amount of antioxidants of regular green tea.</p>
+<p>Hot Tea: Use 1/2 teaspoon per 8 ounces of hot water.  Mix vigorously to make a smooth paste-like liquid.  Enjoy as is or top with freshly steamed milk and sweeten to taste.</p>
+<p class="p1"><strong>Ingredients:</strong> Green Tea</p>
+<p><strong>Grown:</strong><span> Japan and Kenya</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>zero waste</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6567721041993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4409817366601</id>
+    <published>2021-04-16T15:29:48-05:00</published>
+    <updated>2021-04-16T15:29:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-strawberry-green-10-tea-pyramids"/>
+    <title>Organic Strawberry Green- 25 Pyramids</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGSTRAWBERRYGREEN_681a1f31-9e02-4b73-a365-261dfb1eba36.jpg?v=1585166448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Very refreshing and reflective. Lush ripe strawberry notes and aroma fill the cup leading to an astringent finish.</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea*, Papaya* + Strawberry pieces*, Natural flavors(organic compliant). *Organic </div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>China</div>
+<div id="prodregions">
+<b>Region(s):<span> </span></b>Hunan Province</div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<strong>Steeping Instructions: </strong><span> Brew 2-4 minutes at 150-160F</span>
+</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic strawberry green tea</s:tag>
+    <s:tag>pyramids</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:tag>tea pyramid</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4409817366601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6554230685769</id>
+    <published>2021-03-11T09:22:44-06:00</published>
+    <updated>2021-03-11T09:22:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/jasmine-green-50g"/>
+    <title>Jasmine Green-50G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-1_563a4b95-70e3-4199-981f-7551e42f6fbb.jpg?v=1619638346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Green tea accentuated by specially selected May jasmine blossoms.</div>
+<div data-mce-fragment="1">No artificial or natural flavours here 100% natural ingredients.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong>Luxury Ingredients:</strong> Green Tea, Jasmine Flowers.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong>Grown:</strong> China</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div id="prodcupdesc" data-mce-fragment="1"></div>
+<p><meta charset="utf-8"><strong data-mce-fragment="1">Steeping Instructions:<span data-mce-fragment="1"> </span></strong><span data-mce-fragment="1">1 teaspoon – 175°F – 3 mins</span></p>
+<p><span data-mce-fragment="1"><strong>Caffeine:</strong> Low</span></p>
+<p><span style="font-size: 19.6px;"><br></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>jasmine green</s:tag>
+    <s:tag>jasmine tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6554230685769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4624650502217</id>
+    <published>2021-03-11T08:40:15-06:00</published>
+    <updated>2021-03-11T08:40:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/green-tea-balls-flowering"/>
+    <title>Flowering Green Tea Ball</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG-4751.jpg?v=1619638157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">Artisan handcrafted tea ball. The infused green tea is a delight with the benefit of beautiful flowers blooming before your eyes.  Whether it's a special occasion with friends or just because. </div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">You'll love our unique four flowering tea balls.  Each ball has amaranth, jasmine, chrysanthemum and lavender flowers wrapped up with green tea leaves.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong>Luxury Ingredients:</strong> Green Tea, Amaranth, Jasmine, Chrysanthemum, Lavender Flowers</div>
+<div id="prodcupdesc" data-mce-fragment="1"><br></div>
+<div id="prodingredspecs" data-mce-fragment="1">
+<strong>Grown:</strong> China</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Place ball in your favourite glass teapot and add 194F boiled water.  Infuse until the ball is fully open around 5 minutes.  Watch the leaves and flowers unfurl.  </div>
+<div id="prodmanucountry" data-mce-fragment="1"><b data-mce-fragment="1"></b></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amaranth</s:tag>
+    <s:tag>chrysanthemum</s:tag>
+    <s:tag>flowering tea balls</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea balls</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4624650502217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4605259939913</id>
+    <published>2021-01-19T10:34:29-06:00</published>
+    <updated>2021-01-19T10:34:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/premium-white-gold-20g-white-tea"/>
+    <title>Premium White Gold-20G-White Tea-Limited Quantity</title>
+    <s:type>White</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-6.jpg?v=1619638805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>White<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<span>After one whole year of waiting Grand River Tea has obtained one pound of this extremely rare white tea from Kenya. </span><span> </span>
+</div>
+<div><span></span></div>
+<div>
+<span>It takes a full day to pick a half a pound of </span>Premium White Gold.</div>
+<div></div>
+<div></div>
+<div>Enjoy this tea all day long and re-steep throughout the day.  The flavour is light, florally and creamy.  Similar to silver needle white tea. Same process. Put this in your treasure tea chest and savour. </div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<p><span><strong>Grown:</strong> Kenya</span></p>
+<p><span>I<strong>ngredients:</strong>  White Tea</span></p>
+<meta charset="utf-8"> <span></span>
+<p><span><strong>Steeping Instructions:</strong> 1 tsp for 3-7 minutes with 180 Deg F.  Tea leave can be re brewed up to three times</span></p>
+<p><span>Caffeine: Low</span></p>
+<p> </p>
+<p><span><img alt="" src="https://cdn.shopify.com/s/files/1/2697/6254/files/Certifications_1_480x480.jpg?v=1611074171"></span></p>
+</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>premium white gold</s:tag>
+    <s:tag>silver needle</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white gold</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4605259939913</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4589996867657</id>
+    <published>2020-11-26T14:06:57-06:00</published>
+    <updated>2020-11-26T14:06:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-sencha-fuji-green-50g"/>
+    <title>Organic Sencha Fuji Green- 50g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-7.jpg?v=1606419616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc" data-mce-fragment="1">Delicious green tea character with depth, body and some pungency. Cup tends bright forest green.</div>
+<div id="prodingredspecs" data-mce-fragment="1">
+<b data-mce-fragment="1">Luxury Ingredients:<span data-mce-fragment="1"> </span></b>Green tea* *Organic Certified Organic by Pro-Cert Organic Systems </div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Grown: Japan/China</div>
+<div data-mce-fragment="1">Brew 1 teaspoon in 8 o/z water at 175F</div>
+<div data-mce-fragment="1"><br></div>
+<div data-mce-fragment="1">Re brew a second time.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4589996867657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4561692426313</id>
+    <published>2020-09-22T08:25:00-05:00</published>
+    <updated>2020-09-22T08:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/perfect-cup-spoon-stainless-steel"/>
+    <title>Perfect Cup Spoon-Stainless Steel-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_4adf464b-de08-424e-bf80-f1654f9d27ce.jpg?v=1619638769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Measure the perfect amount of loose leaf tea for every delicious cup of tea.</p>
+<p>Our Perfect Cup Spoon will ensure you get a consistent cup of tea everytime.</p>
+<p>Stainless steel 18/8</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4561692426313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4549650448457</id>
+    <published>2020-09-14T12:00:00-05:00</published>
+    <updated>2020-09-14T12:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/green-yaupon-40g"/>
+    <title>Organic Green Yaupon- 40G-New</title>
+    <s:type>Yaupon</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-3.jpg?v=1619638642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Yaupon<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p>Organic Green yaupon is not roasted like our medium roast yaupon.  It's dried in the same way as green tea which is minimally processed. Steep these beautiful green leaves the same as any green tea.<br></p>
+<p>Here we are in the 21st century and it has been revived as a sustainable tea.</p>
+<p>It's sustainably wild-harvested, hand packed and the only thing touches this plant is sunshine and rain.</p>
+<p>Packed in a  kraft bag which is biodegradable.  </p>
+<p>Brew 1 teaspoon in 8 ounces of water for 4 -7 minutes</p>
+<p>Re-brew up to three times</p>
+<p>Perfect for iced tea!</p>
+<p>Grown: Texas, USA</p>
+<p><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4549650448457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4544444727369</id>
+    <published>2020-08-25T10:56:41-05:00</published>
+    <updated>2020-08-25T10:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grosche-laval-tea-infuser"/>
+    <title>Grosche Laval Tea Infuser</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GROSCHE-Laval-stainless-steel-tea-infuser.jpg?v=1599751946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grosche<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><meta charset="utf-8">The GROSCHE LAVAL loose tea infuser is perfect for any cup, mug, or small teapot. The LAVAL is suitable for all loose leaf teas and won’t allow leaves to seep into your tea. It is made from 18-8 stainless steel and can hold enough loose leaf tea for 2-3 steeps. It is easily removable with the lip of the infuser. </span></p>
+<p><span>Your purchase of this product, GROSCHE is able to provide 50+ days of safe drinking water </span><span>to someone in need. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4544444727369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4450781855817</id>
+    <published>2020-05-05T10:14:54-05:00</published>
+    <updated>2020-05-05T10:14:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/genmaicha-green-50g"/>
+    <title>Genmaicha Green 50G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed-5_c85c5c5a-1534-47a5-a9b3-f72d9c35ae31.jpg?v=1619638188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Toasty and bakey with slight buttery notes. Popped rice kernels provide an excellent visual and imparts the unique flavour of the tea. Green tea is very high in antioxidants.</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea, Roasted + Popped Rice.</div>
+<div id="prodmanucountry"><br></div>
+<div id="prodteasfrom">
+<b><span>Grown: </span></b>Japan</div>
+<div></div>
+<div>Brew: 1 teaspoon for 3 Minutes 175 Deg. F</div>
+<div></div>
+<div id="prodregions"><b></b></div>
+<div id="prodantioxlvl"></div>
+<div id="prodcafflvl">
+<b>Caffeine Content:</b><span> </span>Low</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Genmaicha</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4450781855817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4408971296841</id>
+    <published>2020-03-23T13:55:01-05:00</published>
+    <updated>2020-03-23T13:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/gift-card"/>
+    <title>Gift Card-Grand River Tea</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/e38bd83af578077b65a31424bd24d085.png?v=1599751789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://grandrivertea.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Grand River Tea gift card.</p>
+<p>Gift cards are delivered by email and contain instructions on how to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4379914534985</id>
+    <published>2020-01-20T09:43:13-06:00</published>
+    <updated>2020-01-20T09:43:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/lavender-green-50g"/>
+    <title>Lavender Green-50G-New</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/LAVENDERGREEN.jpg?v=1580416953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Premium green tea with a floral and astringent finish. Lavender notes abound creating a tea for memories.  Sit back relax and take in the flavour and aroma.</div>
+<div></div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea, Lavender petals</div>
+<div>
+<strong>Grown:</strong> China</div>
+<div>
+<strong>Caffeine:</strong> Low</div>
+<div>
+<strong>Brew:</strong> 1 Tsp for 3 minutes 175 deg F.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4379914534985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373140537417</id>
+    <published>2020-01-06T10:52:01-06:00</published>
+    <updated>2020-01-06T10:52:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-kenyan-green-tea"/>
+    <title>Mason Jar Kenyan Green Tea-50G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/KENYANGREENTEA_494e83d7-a5dc-4c3c-8944-afb71daa48cd.jpg?v=1580141609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Packed in a zero waste 250ML mason jar.  </span></p>
+<p><span>A clean and smooth green tea that is unlike any other green tea on the market. Whole tea leaves steep multiple infusions of vibrant green liquor.  A must-have for any green tea drinker!</span></p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes: </strong>Crisp asparagus, fresh cabbage and toasted oats.</p>
+<p>Re-steep these whole tea leaves 2-3 times </p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 tea spoon – 175°F – 3 mins</p>
+<p class="p1"><strong>Ingredients: </strong>Kenyan Green Tea</p>
+<p class="p1"><strong>Features:<br></strong>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.<br>Artisanal tea leaves… You will be amazed at the giant tea leaves steeping deliciousness in your cup.  Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.<br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>kenyan green tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373140537417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4351187222601</id>
+    <published>2019-11-27T09:01:10-06:00</published>
+    <updated>2019-11-27T09:01:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-osprey-gunpowder-green-50g"/>
+    <title>Organic Osprey Gunpowder Green-50G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/OSPREYGUNPOWDERGREENTEA.jpg?v=1580417706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">A special, new season green tea with surprising body and a captivating taste.</div>
+<div>You'll love how the leaves unfurl.  Re brew your green tea a couple of times. Don't waste a drop. </div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea* *Organic Certified Organic by Pro-Cert Organic Systems </div>
+<div><br></div>
+<div><strong>Caffeine </strong></div>
+<div><strong></strong></div>
+<div id="prodteasfrom">
+<b>Grown: </b>China</div>
+<div></div>
+<div>Brew for 2-3 minutes </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canda</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>gunpowder green tea</s:tag>
+    <s:tag>organic osprey gunpowder green tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4351187222601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1570829697067</id>
+    <published>2018-11-06T13:43:12-06:00</published>
+    <updated>2018-11-06T13:43:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/matcha-green-40g"/>
+    <title>Matcha Green- 40G</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/MATCHAGREENTEA.jpg?v=1599752598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><br></p>
+<p>There is perhaps no tea on today's market as celebrated or as famous as Matcha.</p>
+<p>Once upon a time Matcha was left for the very special Japanese Tea Ceremony. </p>
+<p>But we've relaxed our use of matcha.  It can be served cold, added to your favourite smoothie, baked good or make yourself a latte.</p>
+<p>Our matcha is made from the Gyokuro leaves that have been shaded under special shade covers for 3 weeks giving the leaves a rich green colour.  Once plucked, the leaves are steamed and dried then stone ground powder.</p>
+<p>Matcha has three times the amount of antioxidants of regular green tea.</p>
+<p>Hot Tea: Use 1/2 teaspoon per 8 ounces of hot water.  Mix vigorously to make a smooth paste-like liquid.  Enjoy as is or top with freshly steamed milk and sweeten to taste.</p>
+<p class="p1"><strong>Ingredients:</strong> Green Tea</p>
+<p><strong>Grown:</strong><span> Japan and Kenya</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Matcha</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1570829697067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1549358465067</id>
+    <published>2018-10-17T13:39:39-05:00</published>
+    <updated>2018-10-17T13:39:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-strawberry-green-50g"/>
+    <title>Organic Strawberry Green- 50g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGSTRAWBERRYGREEN.jpg?v=1580417741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div id="prodcupdesc">Very refreshing and reflective. Lush ripe strawberry notes and aroma fill the cup leading to an astringent finish.</div>
+<div></div>
+<div id="prodingredspecs">
+<b>Luxury Ingredients:<span> </span></b>Green tea*, Papaya* + Strawberry pieces*, Natural flavors(organic compliant). *Organic </div>
+<div id="prodteasfrom">
+<b>Tea(s) From:<span> </span></b>China</div>
+<div id="prodregions">
+<b>Region(s):<span> </span></b>Hunan Province</div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<strong>Steeping Instructions: </strong><span> 1 tsp per 8 ounces of water. Brew 2-4 minutes at 150-160F</span>
+</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic strawberry green tea</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1549358465067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1446739410987</id>
+    <published>2018-08-20T09:53:50-05:00</published>
+    <updated>2018-08-20T09:53:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-pai-mu-tan-white-tea-50g"/>
+    <title>Organic Pai Mu Tan White Tea-30g</title>
+    <s:type>White</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0470.jpg?v=1580417723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>White<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Clear slightly pale cup with a fresh aroma and a smooth velvety flavour. Delicate jammy notes reminiscent of Keemun or a mild Bordeaux. Only the bud and two leaves are selected for this lovely spring grade white tea. This is a rare tea.  Lovely for special occasions or a quite indulgence.  This tea make a wonderful infused white wine. </span></p>
+<p><span><strong>Grown:</strong> China</span></p>
+<p><span>I<strong>ngredients:</strong> Organic White Tea</span></p>
+<meta charset="utf-8">
+<p><span><strong>Steeping Instructions:</strong> 1 tsp for 3-7 minutes with 180 Deg F.  Tea leave can be re brewed up to three times</span></p>
+<p><span>Caffeine: Low</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic pai mu tan white tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1446739410987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1436151480363</id>
+    <published>2018-08-14T09:35:38-05:00</published>
+    <updated>2018-08-14T09:35:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/kenyan-green-tea-50g"/>
+    <title>Kenyan Green Tea-50g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/KENYANGREENTEA.jpg?v=1619638397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><br></p>
+<p><span>A clean and smooth green tea that is unlike any other green tea on the market. Whole tea leaves steep multiple infusions of vibrant green liquor.  A must-have for any green tea drinker!</span></p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes: </strong>Crisp asparagus, fresh cabbage and toasted oats.</p>
+<p>Re-steep these whole tea leaves 2-3 times </p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 teaspoon – 175°F – 3 mins</p>
+<p class="p1"><strong>Ingredients: </strong>Kenyan Green Tea</p>
+<p class="p1"><strong>Features:<br></strong>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.<br>Artisanal tea leaves… You will be amazed at the giant tea leaves steeping deliciousness in your cup.  Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.<br><img alt="" src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>kenyan green</s:tag>
+    <s:tag>kenyan green tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1436151480363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1357608943659</id>
+    <published>2018-06-28T08:30:53-05:00</published>
+    <updated>2018-06-28T08:30:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/organic-dragonwell-green-tea-40g"/>
+    <title>Organic Dragonwell Green Tea- 40g</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/ORGANICDRAGONWELL.jpg?v=1580417251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium hand picked spring growth offers exquisite green notes.  Sweetish with light layers of astringency.  Brew it two or three times.</p>
+<p><strong>Ingredients:</strong> Green tea  Organic Certified</p>
+<p><strong>Grown:</strong> Zhejiang Province, China</p>
+<p><strong>Steeping Instructions: </strong> 1 tsp per 8 ounces of water. Brew 2-4 minutes at 150-160F</p>
+<p>Low in caffeine </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>dragonwell</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic dragonwell green tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1357608943659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1292253757483</id>
+    <published>2018-05-30T14:54:25-05:00</published>
+    <updated>2018-05-30T14:54:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-jasmine-loose-leaf-tea-50g"/>
+    <title>Purple Jasmine  Tea-50G</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Purple-Jasmine.png?v=1580417828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purple Jasmine:</strong><span> </span>A cup of Purple Jasmine is fresh and delicate. The enchanting fragrance of real jasmine blossoms creates the perfect pairing of tea and flowers.</p>
+<p><strong>Tasting Notes:</strong><span> </span>Light &amp; Floral. Spring Jasmine &amp; Honey</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –175°F – 2 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Jasmine Green Tea, <span class="s1">Kenyan Purple Tea, Jasmine Blossoms, Cornflower Blossoms</span><span class="s1">.</span></p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<p class="p1"> </p>
+<div>
+<p><a href="https://www.nongmoproject.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><img class="alignnone wp-image-10807 size-full" src="https://justea.com/wp-content/uploads/2016/03/non-gmo-product-verified-seal-square.png" alt="Our tea is a NON-GMO Product." width="150" height="145"><span class="image-overlay overlay-type-extern"><span class="image-overlay-inside"></span></span></a><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img class="alignnone wp-image-11128" src="https://justea.com/wp-content/uploads/2016/03/FTF_Member_Logo_Black-253x300.png" alt="Our tea is Fair Trade Federation Certified" width="112" height="133"><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>jasmine tea</s:tag>
+    <s:tag>purple jasmine tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1292253757483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

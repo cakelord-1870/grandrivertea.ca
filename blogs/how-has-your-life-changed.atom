@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/blogs/how-has-your-life-changed.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/blogs/how-has-your-life-changed"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/blogs/how-has-your-life-changed.atom"/>
+  <title>Grand River Tea - How Has Your Life Changed?</title>
+  <updated>2021-06-15T14:29:47-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/blogs/how-has-your-life-changed/how-has-your-life-changed</id>
+    <published>2021-06-15T14:29:47-05:00</published>
+    <updated>2021-08-18T10:56:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/blogs/how-has-your-life-changed/how-has-your-life-changed"/>
+    <title>How Has Your Life Changed?</title>
+    <author>
+      <name>Lynn Maidment</name>
+    </author>
+    <summary type="html">
+      <![CDATA[How Has Your Life Changed?<p><a class="read-more" href="https://grandrivertea.ca/blogs/how-has-your-life-changed/how-has-your-life-changed">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Hopefully your are doing well during the pandemic and have experienced some positiveness.</p>
+<p> </p>
+<p>Our life has had some struggles amongst the uncertainty of when can we see family again.   And am sure your struggles have been real with children at home. Home schooling, isolation and not been able to celebrate life events with family.</p>
+<p>I cannot relate because our family does not have children at home, can only imagine the struggles mentally and physically.</p>
+<p>The challenges of managing work and family during the pandemic have been difficult for a lot of families.  Also, business owners who are on a roller coaster ride of opening and closing, laying off staff and rehiring.  The question is when can we get back to normal again?  Dark days have been many but each day new beginnings are happening and hope is on the horizon of getting back to normal.</p>
+<p> </p>
+<p>May your days be filled with light and hope.</p>
+<p>Lynn</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/oolong-1.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2020-09-22T08:25:00-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/4561692426313</id>
+    <published>2020-09-22T08:25:00-05:00</published>
+    <updated>2020-09-22T08:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/perfect-cup-spoon-stainless-steel"/>
+    <title>Perfect Cup Spoon-Stainless Steel-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_4adf464b-de08-424e-bf80-f1654f9d27ce.jpg?v=1619638769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Measure the perfect amount of loose leaf tea for every delicious cup of tea.</p>
+<p>Our Perfect Cup Spoon will ensure you get a consistent cup of tea everytime.</p>
+<p>Stainless steel 18/8</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4561692426313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4544444727369</id>
+    <published>2020-08-25T10:56:41-05:00</published>
+    <updated>2020-08-25T10:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grosche-laval-tea-infuser"/>
+    <title>Grosche Laval Tea Infuser</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GROSCHE-Laval-stainless-steel-tea-infuser.jpg?v=1599751946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grosche<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><meta charset="utf-8">The GROSCHE LAVAL loose tea infuser is perfect for any cup, mug, or small teapot. The LAVAL is suitable for all loose leaf teas and won’t allow leaves to seep into your tea. It is made from 18-8 stainless steel and can hold enough loose leaf tea for 2-3 steeps. It is easily removable with the lip of the infuser. </span></p>
+<p><span>Your purchase of this product, GROSCHE is able to provide 50+ days of safe drinking water </span><span>to someone in need. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4544444727369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4408971296841</id>
+    <published>2020-03-23T13:55:01-05:00</published>
+    <updated>2020-03-23T13:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/gift-card"/>
+    <title>Gift Card-Grand River Tea</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/e38bd83af578077b65a31424bd24d085.png?v=1599751789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://grandrivertea.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Grand River Tea gift card.</p>
+<p>Gift cards are delivered by email and contain instructions on how to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373141422153</id>
+    <published>2020-01-06T10:55:43-06:00</published>
+    <updated>2020-01-06T10:55:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-kenyan-oolong"/>
+    <title>Mason Jar Kenyan Oolong-60G</title>
+    <s:type>Oolong</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/KENYANOOLONG_7ba6a972-1e25-498c-bec2-f880806f3795.jpg?v=1580141667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Oolong<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Tea will be packed in a zero waste 250ML mason jar.  </p>
+<p class="p1">A rare find from Kenya, this oolong tea is meticulously crafted in small batches.  Hand-plucked, withered, tossed, panned, rolled and then dried, these complex processing steps result in an exquisite cup of tea.  Enjoy!</p>
+<meta charset="utf-8">
+<p class="p1"><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p class="p1"><strong>Tasting Notes: </strong>Smooth floral flavours with a hint of honey</p>
+<p><strong>Steeping Instructions:<span> </span></strong>1 tea spoon – 190°F – 3 mins. Re steep 2-3 times</p>
+<p class="p1"><strong>Ingredients: </strong>Kenyan Oolong Tea</p>
+<p class="p1"><strong>Medium Caffeine</strong></p>
+<p class="p1"><strong>Features:<br></strong>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.<br>Artisanal tea leaves… You will be amazed at the giant tea leaves steeping deliciousness in your cup.  Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.<br><br></p>
+<p class="p1"><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canadian</s:tag>
+    <s:tag>kenyan oolong</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373141422153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1436321087531</id>
+    <published>2018-08-14T13:13:11-05:00</published>
+    <updated>2018-08-14T13:13:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/kenyan-oolong-50g"/>
+    <title>Kenyan Oolong- 50g</title>
+    <s:type>Oolong</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/KENYANOOLONG.jpg?v=1599752240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Oolong<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><meta charset="utf-8"><span></span> </p>
+<p class="p1">A rare find from Kenya, this oolong tea is meticulously crafted in small batches.  Hand-plucked, withered, tossed, panned, rolled and then dried, these complex processing steps result in an exquisite cup of tea.  Enjoy!</p>
+<p class="p1"> </p>
+<meta charset="utf-8">
+<p class="p1"><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p class="p1"><strong>Tasting Notes: </strong>Smooth floral flavours with a hint of honey</p>
+<p><strong>Steeping Instructions:<span> </span></strong>1 tea spoon – 190°F – 3 mins. Re steep 2-3 times</p>
+<p class="p1"><strong>Ingredients: </strong>Kenyan Oolong Tea</p>
+<p class="p1"><strong>Medium Caffeine</strong></p>
+<p class="p1"><strong>Features:<br></strong>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.<br>Artisanal tea leaves… You will be amazed at the giant tea leaves steeping deliciousness in your cup.  Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.<br><br></p>
+<p class="p1"><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canada</s:tag>
+    <s:tag>kenyan oolong</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1436321087531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1357612515371</id>
+    <published>2018-06-28T08:38:33-05:00</published>
+    <updated>2018-06-28T08:38:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/quangzhou-milk-oolong-1kg"/>
+    <title>Quangzhou Milk Oolong-50G</title>
+    <s:type>Oolong</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/QUANZHONGMILKOOLONG.jpg?v=1580418000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Oolong<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>How would we best describe this delicious oolong?  It's like velvet took a liquid form and was blended with sweet light creme.</p>
+<p>﻿A very unique character best described as premium oolong with sweet mild and light orchid notes peeking out from camellia depths.  Brew 2 to 3 times and watch the leaves unfurl.</p>
+<p>I<strong>ngredients:</strong> Oolong Tea</p>
+<p><strong>Grown:</strong> Fujian Province, China</p>
+<p><strong>Steeping Instructions: </strong> 1 teaspoon per 8 ounces of water.  Brew 190F 3-5 minutes.</p>
+<p>Caffeine: Medium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>quangzhou milk oolong</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1357612515371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://grandrivertea.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://grandrivertea.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://grandrivertea.ca/collections/100-fruit-tea-blends.atom"/>
+  <title>Grand River Tea</title>
+  <updated>2021-08-12T14:26:42-05:00</updated>
+  <author>
+    <name>Grand River Tea</name>
+  </author>
+  <entry>
+    <id>https://grandrivertea.ca/products/6594385936457</id>
+    <published>2021-08-12T14:26:42-05:00</published>
+    <updated>2021-08-12T14:26:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-jasmine-tea-1kg"/>
+    <title>Purple Jasmine  Tea-1KG</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Purple-Jasmine_0cc38432-8183-46ae-b046-24c8f286a5f4.png?v=1628796356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purple Jasmine:</strong><span> </span>A cup of Purple Jasmine is fresh and delicate. The enchanting fragrance of real jasmine blossoms creates the perfect pairing of tea and flowers.</p>
+<p><strong>Tasting Notes:</strong><span> </span>Light &amp; Floral. Spring Jasmine &amp; Honey</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –175°F – 2 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Jasmine Green Tea, <span class="s1">Kenyan Purple Tea, Jasmine Blossoms, Cornflower Blossoms</span><span class="s1">.</span></p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<p class="p1"> </p>
+<div>
+<p><a href="https://www.nongmoproject.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><img class="alignnone wp-image-10807 size-full" src="https://justea.com/wp-content/uploads/2016/03/non-gmo-product-verified-seal-square.png" alt="Our tea is a NON-GMO Product." width="150" height="145"><span class="image-overlay overlay-type-extern"><span class="image-overlay-inside"></span></span></a><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img class="alignnone wp-image-11128" src="https://justea.com/wp-content/uploads/2016/03/FTF_Member_Logo_Black-253x300.png" alt="Our tea is Fair Trade Federation Certified" width="112" height="133"><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>jasmine tea</s:tag>
+    <s:tag>purple jasmine tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6594385936457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/6593195868233</id>
+    <published>2021-08-11T10:18:45-05:00</published>
+    <updated>2021-08-11T10:18:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-rain-leaf-tea-1kg"/>
+    <title>Purple Rain Leaf Tea-1KG</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0212_e01f9641-ac5c-4433-a3c3-794a7b74521a.jpg?v=1628695055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            126.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purple Rain:</strong> A cup of Purple Rain will make your taste buds sing. Enjoy this bright tropical infusion of juicy passion fruit, sweet lemongrass, crisp apple, and a hint of hibiscus. Iced tea heaven!</p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes:</strong> Bright &amp; Lively. Tropical Fruit &amp; Hibiscus</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –190°F – 4 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Organic Lemongrass, Kenyan Purple Tea, Hibiscus, Apple Pieces, Rosehips, Natural Passion Fruit Flavour.</p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<div>
+<p><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""><br><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>iced tea</s:tag>
+    <s:tag>leaf tea</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>purple rain leaf tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/6593195868233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4561692426313</id>
+    <published>2020-09-22T08:25:00-05:00</published>
+    <updated>2020-09-22T08:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/perfect-cup-spoon-stainless-steel"/>
+    <title>Perfect Cup Spoon-Stainless Steel-New</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/unnamed_4adf464b-de08-424e-bf80-f1654f9d27ce.jpg?v=1619638769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Measure the perfect amount of loose leaf tea for every delicious cup of tea.</p>
+<p>Our Perfect Cup Spoon will ensure you get a consistent cup of tea everytime.</p>
+<p>Stainless steel 18/8</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4561692426313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4544444727369</id>
+    <published>2020-08-25T10:56:41-05:00</published>
+    <updated>2020-08-25T10:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/grosche-laval-tea-infuser"/>
+    <title>Grosche Laval Tea Infuser</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Grosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/GROSCHE-Laval-stainless-steel-tea-infuser.jpg?v=1599751946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grosche<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span><meta charset="utf-8">The GROSCHE LAVAL loose tea infuser is perfect for any cup, mug, or small teapot. The LAVAL is suitable for all loose leaf teas and won’t allow leaves to seep into your tea. It is made from 18-8 stainless steel and can hold enough loose leaf tea for 2-3 steeps. It is easily removable with the lip of the infuser. </span></p>
+<p><span>Your purchase of this product, GROSCHE is able to provide 50+ days of safe drinking water </span><span>to someone in need. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4544444727369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4408971296841</id>
+    <published>2020-03-23T13:55:01-05:00</published>
+    <updated>2020-03-23T13:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/gift-card"/>
+    <title>Gift Card-Grand River Tea</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/e38bd83af578077b65a31424bd24d085.png?v=1599751789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            10.00 - 100.00
+            <a href="https://grandrivertea.ca/products/gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Grand River Tea gift card.</p>
+<p>Gift cards are delivered by email and contain instructions on how to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessory</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>canada</s:tag>
+    <s:tag>Canadian Grown</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Mint Rooibos</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gift Card</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>oolong</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>rooibos</s:tag>
+    <s:tag>strawberry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>Yaupon</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$10.00 CAD</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$25.00 CAD</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$50.00 CAD</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4408971296841</id>
+      <title>$100.00 CAD</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/4373143191625</id>
+    <published>2020-01-06T11:01:30-06:00</published>
+    <updated>2020-01-06T11:01:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/mason-jar-zero-waste-purple-rain-leaf-tea-45g"/>
+    <title>Mason Jar Purple Rain Leaf Tea-45G</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0212_40c718d3-7a46-4337-9af5-429764a20913.jpg?v=1580141904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><strong>Packed in a zero waste 250ML mason jar.  </strong></p>
+<p><strong>Purple Rain:</strong> A cup of Purple Rain will make your taste buds sing. Enjoy this bright tropical infusion of juicy passion fruit, sweet lemongrass, crisp apple, and a hint of hibiscus. Iced tea heaven! Wonderful hot.</p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes:</strong> Bright &amp; Lively. Tropical Fruit &amp; Hibiscus</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –190°F – 4 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Organic Lemongrass, Kenyan Purple Tea, Hibiscus, Apple Pieces, Rosehips, Natural Passion Fruit Flavour.</p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<div>
+<p><a href="http://www.fairtradefederation.org/" class="alignnone" target="_blank"><br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""><br><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>leaf tea</s:tag>
+    <s:tag>mason jar</s:tag>
+    <s:tag>pick up</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>purple rain leaf tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/4373143191625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>215</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1410481225771</id>
+    <published>2018-07-30T14:30:54-05:00</published>
+    <updated>2018-07-30T14:30:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-tea"/>
+    <title>Purple Tea-50g</title>
+    <s:type>Purple Tea</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/PURPLETEA.jpg?v=1584886402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>This is an exciting brand new category of tea. Some would say it tastes in between a green and white tea. The best temperature is around 175F for 2-3 minutes. Another bonus you can re brew purple tea up to three times. Brew a bit longer for each additional brew. Purple tea is a new variety which is grown organically in Kenya.  It has all of the health benefits of green tea with less caffeine.  It naturally grows purple because the</span>
+</div>
+<div>
+<span>plant contains </span><span color="#020303" face="arial"><span>anthocyanin, the same antioxidant found in other purple plants like blueberries.</span></span>
+</div>
+<div><span color="#020303" face="arial"><span></span></span></div>
+<div><span color="#020303" face="arial"><span></span></span></div>
+<div><span color="#020303" face="arial"><span>Certified: Organic, Non GMO, Rainforest Alliance Certified and are a member of the Fair Trade Alliance</span></span></div>
+<div><span color="#020303" face="arial"><span></span></span></div>
+<div></div>
+<div><span>Purple Leaf Tea is also a colour changing tea… squeeze a couple drops of lemon into your tea cup and watch the purple colour intensify.  Be the first to try this beautiful new tea!</span></div>
+<div>Once unfurled, you can see the actual whole leaf that the farmer carefully hand-plucked from their Nandi Hills tea garden.</div>
+<div></div>
+<div>
+<div><span>The only tea from Kenya plucked, processed and shipped from small-scale farmers! Pesticide free. No chemicals are ever sprayed on the tea leaves.</span></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div>
+<span>Tasting Notes: </span><span>Sweet plum and fresh spring greens.</span>
+</div>
+<div>
+<meta charset="utf-8">
+<strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong>
+</div>
+<div><strong><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""></strong></div>
+<div><strong></strong></div>
+<div>
+<strong>Steeping Instructions: </strong><span>1 tea spoon per 8 ounces – 175°F – 2-3 mins. </span>
+</div>
+<div><span></span></div>
+<div>
+<span><a href="http://www.fairtradefederation.org/"></a><strong>Ingredients:</strong> </span><span>Kenyan Purple Tea</span>
+</div>
+<div><span>Caffeine: Low</span></div>
+<div>
+<meta charset="utf-8">
+<span>Re-steep these whole tea leaves 2-3 times </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>purple tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1410481225771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1292257263659</id>
+    <published>2018-05-30T14:57:49-05:00</published>
+    <updated>2018-05-30T14:57:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-rain-loose-leaf-tea-50g"/>
+    <title>Purple Rain Leaf Tea-50G</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/IMG_0212.jpg?v=1580417888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purple Rain:</strong> A cup of Purple Rain will make your taste buds sing. Enjoy this bright tropical infusion of juicy passion fruit, sweet lemongrass, crisp apple, and a hint of hibiscus. Iced tea heaven!</p>
+<meta charset="utf-8">
+<p><strong><span>Non GMO, Rain Forest Certified and Fair Trade Certified.</span></strong></p>
+<p><strong>Tasting Notes:</strong> Bright &amp; Lively. Tropical Fruit &amp; Hibiscus</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –190°F – 4 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Organic Lemongrass, Kenyan Purple Tea, Hibiscus, Apple Pieces, Rosehips, Natural Passion Fruit Flavour.</p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<div>
+<p><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img src="//cdn.shopify.com/s/files/1/2697/6254/files/cert-logos_large.jpg?v=1552338375" alt=""><br><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>iced tea</s:tag>
+    <s:tag>leaf tea</s:tag>
+    <s:tag>purple rain</s:tag>
+    <s:tag>purple rain leaf tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1292257263659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://grandrivertea.ca/products/1292253757483</id>
+    <published>2018-05-30T14:54:25-05:00</published>
+    <updated>2018-05-30T14:54:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://grandrivertea.ca/products/purple-jasmine-loose-leaf-tea-50g"/>
+    <title>Purple Jasmine  Tea-50G</title>
+    <s:type>Purple Tea Blend</s:type>
+    <s:vendor>Grand River Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2697/6254/products/Purple-Jasmine.png?v=1580417828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grand River Tea<br>
+        <strong>Type: </strong>Purple Tea Blend<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Purple Jasmine:</strong><span> </span>A cup of Purple Jasmine is fresh and delicate. The enchanting fragrance of real jasmine blossoms creates the perfect pairing of tea and flowers.</p>
+<p><strong>Tasting Notes:</strong><span> </span>Light &amp; Floral. Spring Jasmine &amp; Honey</p>
+<p><strong>Makes 40 cups.</strong> Re-steep this whole leaf tea for 80 cups</p>
+<p class="p1"><strong>Steeping Instructions:<span> </span></strong>1 Teaspoon –175°F – 2 mins</p>
+<p class="p1"><strong>100% Natural Ingredients:</strong><span> </span>Jasmine Green Tea, <span class="s1">Kenyan Purple Tea, Jasmine Blossoms, Cornflower Blossoms</span><span class="s1">.</span></p>
+<p class="p1"><strong>Caffeine: </strong>Low</p>
+<p class="p1"><strong>Features</strong>: Did you know that all tea comes from the jade green leaves of the tea tree, except for purple tea? This unique variety yields beautiful, vibrant purple leaves! Grown organically, these tea leaves are naturally purple because they contain anthocyanins, the same super antioxidants found in other purple plants like blueberries and pomegranates. Similar to green tea, Purple Tea is very healthy, with little caffeine and an exquisite taste. Your purchase directly employs Kenyan tea farmers.</p>
+<p class="p1"> </p>
+<div>
+<p><a href="https://www.nongmoproject.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><img class="alignnone wp-image-10807 size-full" src="https://justea.com/wp-content/uploads/2016/03/non-gmo-product-verified-seal-square.png" alt="Our tea is a NON-GMO Product." width="150" height="145"><span class="image-overlay overlay-type-extern"><span class="image-overlay-inside"></span></span></a><a href="http://www.fairtradefederation.org/" target="_blank" rel="noopener noreferrer" class="alignnone"><br><img class="alignnone wp-image-11128" src="https://justea.com/wp-content/uploads/2016/03/FTF_Member_Logo_Black-253x300.png" alt="Our tea is Fair Trade Federation Certified" width="112" height="133"><span class="image-overlay overlay-type-extern"></span></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canada</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>jasmine tea</s:tag>
+    <s:tag>purple jasmine tea</s:tag>
+    <s:tag>tea</s:tag>
+    <s:variant>
+      <id>https://grandrivertea.ca/products/1292253757483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>
